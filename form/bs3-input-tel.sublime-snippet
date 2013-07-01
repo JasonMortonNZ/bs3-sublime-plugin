@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<input type="tel" name="${1}" id="input${1/(\w+)/\u\1/g}" ${2:value="${3}"} ${4:required="required"} ${5:title="${6}"}>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-input:tel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

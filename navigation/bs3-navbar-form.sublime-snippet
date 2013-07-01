@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<form class="navbar-form pull-${1:right}">
+    <input type="text" style="width: 200px;">
+    <button type="submit" class="btn btn-${2:default}">${3:Submit}</button>
+</form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-navbar:form</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

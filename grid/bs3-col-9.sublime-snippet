@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="col col-9 col-sm-9 col-lg-9">
+
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-col:9</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

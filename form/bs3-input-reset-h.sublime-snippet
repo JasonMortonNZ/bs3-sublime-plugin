@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="row">
+	<div class="col col-sm-${1:10} col-offset-${2:2}">
+		<input type="reset" value="${3:Reset}" class="btn btn-default">
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-input:reset:h</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

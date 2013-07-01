@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<form action="${1}" method="${2:POST}" class="form-horizontal">
+    <fieldset>
+        <div class="row">
+            <legend>${3:Form title}</legend>
+        </div>
+
+        ${4}
+        
+        <div class="row">
+            <div class="col col-sm-10 col-offset-2">
+                <button type="submit" class="btn btn-primary">${5:Submit}</button>
+            </div>
+        </div>
+    </fieldset>
+</form>    
+${6}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs3-form:horizontal</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

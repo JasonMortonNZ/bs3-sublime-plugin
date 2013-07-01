@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<form action="${1}" method="${2:POST}">
+    <fieldset>
+        <legend>${3:Form title}</legend>
+
+        ${4}
+
+        <button type="submit" class="btn btn-primary">${5:Submit}</button>
+    </fieldset>
+</form>    
+${6}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs3-form</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

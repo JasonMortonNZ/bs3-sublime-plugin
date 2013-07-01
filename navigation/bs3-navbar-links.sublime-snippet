@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<ul class="nav navbar-nav">
+    <li class="active">
+    	<a href="${1:#}">${2:Home}</a>
+    </li>
+    <li>
+    	<a href="${3:#}">${4:Link}</a>
+    </li>
+</ul>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-navbar:links</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

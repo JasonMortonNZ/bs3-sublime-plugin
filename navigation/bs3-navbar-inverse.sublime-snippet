@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<div class="navbar navbar-inverse">
+	<a class="navbar-brand" href="#">${1:Title}</a>
+	<ul class="nav navbar-nav">
+		<li class="active">
+			<a href="#">${2:Home}</a>
+		</li>
+		<li>
+			<a href="#">${3:Link}</a>
+		</li>
+	</ul>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-navbar:inverse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
