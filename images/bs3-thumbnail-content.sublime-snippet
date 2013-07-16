@@ -6,11 +6,11 @@
     	<div class="caption">
     		<h3>${4:Title}</h3>
     		<p>
-    			{5:...}
+    			${5:...}
     		</p>
     		<p>
-    			<a href="${6:#} class="btn btn-primary">${7:Action}</a>
-    			<a href="${8:#} class="btn btn-default">${9:Action}</a>
+    			<a href="${6:#}" class="btn btn-primary">${7:Action}</a>
+    			<a href="${8:#}" class="btn btn-default">${9:Action}</a>
     		</p>
     	</div>
     </div>
