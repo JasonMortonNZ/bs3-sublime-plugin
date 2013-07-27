@@ -13,6 +13,12 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 - [Badges](#badges)
 - [Breadcrumbs](#breadcrumbs)
 - [Buttons](#buttons)
+- [Grid](#grid)
+- [Images](#images)
+- [Icons](#icons)
+- [Labels](#labels)
+- [Pagination](#pagination)
+- [Navigation](#Navigation)
 
 ### Forms
 
@@ -85,9 +91,74 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 |------------------------------- | :----------------------------: |
 | Breadcrumbs	 				 | bs3-breadcrumbs				  |
 
-### Test
+### Buttons
 
-| Component       				 | Snippet code        			  | Options |
-|------------------------------- | :-----------------------------:| :-----:	|
-|  H1			   				 | H1          			 		  |    		|
-|  H2	    	 				 | H2   						  | - :h - :h2 - :h3 		|
+### Grid
+
+**Note:** The bs3-col snippet can be used both on it's own or with the addition of a colon followed by the number of columns required: **E.g.**
+
+- bs3-col
+- bs3-col:6
+- bs3-col:12
+
+| Component                		 | Snippet code                   | Options |
+|------------------------------- | :----------------------------: | :-----:	|
+| Column		 				 | bs3-col						  | :1-12	|
+| Row			 				 | bs3-row						  |  		|
+| Container		 				 | bs3-container				  |			|
+
+### Icons
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Icon (use with Font Awesome)	 | bs3-icon						  |
+| Icon (use with Glyphicons)	 | bs3-icon:g					  |
+
+### Images
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Thumbnail	 					 | bs3-thumbnail 				  |
+| Thumbnail with content		 | bs3-thumbnail:content		  |
+ 
+### Labels
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Label		 					 | bs3-label 	 				  |
+| Danger Label					 | bs3-label:danger				  |
+| Info Label					 | bs3-label:info 				  |
+| Success Label					 | bs3-label:success			  |
+| Warngin Label					 | bs3-label:warning			  |
+
+### Pagination
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Pager		 					 | bs3-pager	 				  |
+| Aligned Pager             	 | bs3-pager:aligned 			  |	
+| Pagination					 | bs3-pagination				  |
+| Pagination:small				 | bs3-pagination:small			  |
+| Pagination:large				 | bs3-pagination:large			  |
+
+### Navigation
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Navbar (basic navbar)			 | bs3-navbar	 				  |
+| Navbar Brand Element			 | bs3-navbar:brand				  |
+| Navbar Button					 | bs3-navbar:button			  |
+| Navbar Form 					 | bs3-navbar:form 				  |
+| Navbar Link 					 | bs3-navbar:link 				  |
+| Navbar Text 					 | bs3-navbar:text 				  |
+| Navbar Fixed-Botton			 | bs3-navbar:fixed-bottom		  |
+| Navbar Fixed-Top				 | bs3-navbar:fixed-top			  |
+| Navbar Inverse				 | bs3-navbar:inverse			  |
+| Navbar Responsive				 | bs3-navbar:responsive		  |
+| Navbar Static-Top				 | bs3-navbar:static-top		  |
+
+### Jumbotron
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Jumbotron (ex Hero Unit)		 | bs3-jumbotron 				  |
