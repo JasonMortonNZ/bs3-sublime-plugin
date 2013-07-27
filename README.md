@@ -90,6 +90,4 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 | Component       				 | Snippet code        			  | Options |
 |------------------------------- | :-----------------------------:| :-----:	|
 |  H1			   				 | H1          			 		  |    		|
-|  H2	    	 				 | H2   						  | :h 		|
-																  | :H2		|
-																  | :H2		|
+|  H2	    	 				 | H2   						  | -:h -:h2 -:h3 		|
