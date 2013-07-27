@@ -98,13 +98,7 @@ Feel free to let me know what else you want added via:
 
 ### Buttons
 
-**Note:** all button snippets below can have any of the following options append to the end of the snippet *. **E.g.**:
-
-- bs3-button:success
-- bs3-large-button:disabled
-- bs3-block-button:warning
-
-*
+**Note:** all button snippets below can have any of the following options append to the end of the snippet *.
 - :danger
 - :default
 - :disabled
@@ -112,6 +106,11 @@ Feel free to let me know what else you want added via:
 - :primary
 - :success
 - :warning
+
+**An example:**
+- bs3-button:success
+- bs3-large-button:disabled
+- bs3-block-button:warning
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
