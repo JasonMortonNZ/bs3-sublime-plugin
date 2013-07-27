@@ -3,6 +3,11 @@ Twitter Bootstrap 3 - Sublime Plugin
 
 A sublime plugin complete with Twitter Bootstrap 3 snippets
 
+Feel free to let me know what else you want added via:
+
+- Twitter [@JasonMortonNZ](https://twitter.com/jasonmortonnz)
+- [Issues](https://github.com/JasonMortonNZ/bs3-sublime-plugin/issues)
+
 
 ## What's included - contents
 
@@ -18,7 +23,7 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 - [Icons](#icons)
 - [Labels](#labels)
 - [Pagination](#pagination)
-- [Navigation](#Navigation)
+- [Navigation](#navigation)
 
 ### Forms
 
