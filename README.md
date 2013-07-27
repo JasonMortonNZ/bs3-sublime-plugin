@@ -27,11 +27,11 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 
 ### Input Fields (Form fields)
 
-** Note: ** you can add " :h " to the end of any input field snippet to make it compatible with Twitter Bootstrap 3 horizontal forms.
+**Note:** you can add " :h " to the end of any input field snippet to make it compatible with Twitter Bootstrap 3 horizontal forms.
 
 E.g.
 - bs3-input:text:h
-- bs3-input:email:h
+- bs3-input:hidden:h
 
 
 | Component                		 | Snippet code                   | Options |
