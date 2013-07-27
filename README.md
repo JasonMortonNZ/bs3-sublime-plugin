@@ -98,6 +98,30 @@ Feel free to let me know what else you want added via:
 
 ### Buttons
 
+**Note:** all button snippets below can have any of the following options append to the end of the snippet *. **E.g.**:
+
+- bs3-button:success
+- bs3-large-button:disabled
+- bs3-block-button:warning
+
+*
+- :danger
+- :default
+- :disabled
+- :info
+- :primary
+- :success
+- :warning
+
+| Component                		 | Snippet code                   | Options |
+|------------------------------- | :----------------------------: | :-----:	|
+| Button		 				 | bs3-button					  |  *		|
+| Block Button	 				 | bs3-block-button				  |  *		|
+| Mini Button		 			 | bs3-mini-button				  |	 *		|
+| Small Button		 			 | bs3-small-button				  |	 *		|
+| Large Button		 			 | bs3-large-button				  |	 *		|
+| Button		 				 | bs3-button					  |	 *		|
+
 ### Grid
 
 **Note:** The bs3-col snippet can be used both on it's own or with the addition of a colon followed by the number of columns required: **E.g.**
