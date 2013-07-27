@@ -6,13 +6,13 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 
 ## What's included - contents
 
-[Forms](#forms)
-[Tables](#tables)
-[Input](#input-fields-form-fields))
-[Alerts](#alerts)
-[Badges](#badges)
-[Breadcrumbs](#breadcrumbs)
-[Buttons](#buttons)
+- [Forms](#forms)
+- [Tables](#tables)
+- [Input](#input-fields-form-fields)
+- [Alerts](#alerts)
+- [Badges](#badges)
+- [Breadcrumbs](#breadcrumbs)
+- [Buttons](#buttons)
 
 ### Forms
 
