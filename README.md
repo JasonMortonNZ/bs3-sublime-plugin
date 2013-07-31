@@ -69,6 +69,8 @@ Feel free to let me know what else you want added via:
 | Search Input 					 | bs3-input:search   			  | :h 		|
 | Reset Input 					 | bs3-input:reset   			  | :h 		|
 | Submit Input 					 | bs3-input:submit   			  | :h 		|
+| Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
+| Radio Box Input 				 | bs3-input:radio  			  | :h 		|
 		
 
 ### Alerts

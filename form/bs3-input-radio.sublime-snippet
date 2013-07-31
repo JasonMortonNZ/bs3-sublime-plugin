@@ -1,9 +1,14 @@
 <snippet>
 	<content><![CDATA[
-<input type="week" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"} ${4:required="required"} ${5:title="${6}"}>
+<div class="radio">
+	<label>
+		<input type="radio" name="${1}" id="input${1/(\w+)/\u\1/g}" value="${2}" ${3:checked="checked"}>
+		${4:Radio Box}
+	</label>
+</div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bs3-input:week</tabTrigger>
+	<tabTrigger>bs3-input:radio</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
