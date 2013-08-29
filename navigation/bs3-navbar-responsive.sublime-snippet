@@ -1,20 +1,21 @@
 <snippet>
 	<content><![CDATA[
-<div class="navbar">
+<nav class="navbar">
     <div class="container">
-
-    	<!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
-    	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+	<div class="navbar-header">
+    	    <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+    	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
         	<span class="icon-bar"></span>
         	<span class="icon-bar"></span>
         	<span class="icon-bar"></span>
-    	</button>
-
-    	<!-- Be sure to leave the brand out there if you want it shown -->
-    	<a class="navbar-brand" href="${1:#}">${2:Title}</a>
-
+    	    </button>
+	
+    	    <!-- Be sure to leave the brand out there if you want it shown -->
+    	    <a class="navbar-brand" href="${1:#}">${2:Title}</a>
+	</div>
+	
     	<!-- Place everything within .navbar-collapse to hide it until above 768px -->
-    	<div class="nav-collapse collapse navbar-responsive-collapse">
+    	<div class="collapse navbar-collapse navbar-ex1-collapse">
         	<ul class="nav navbar-nav">
         		<li>
         			<a href="#">Link</a>
@@ -23,7 +24,7 @@
     	</div><!-- /.nav-collapse -->
     	
     </div><!-- /.container -->
-</div><!-- /.navbar -->
+</nav><!-- /.navbar -->
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-navbar:responsive</tabTrigger>
