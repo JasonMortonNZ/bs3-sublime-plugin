@@ -24,6 +24,9 @@ Feel free to let me know what else you want added via:
 - [Labels](#labels)
 - [Pagination](#pagination)
 - [Navigation](#navigation)
+- [Panels](#panels)
+- [List Groups](#list-groups)
+- [Media Objects](#media)
 
 ### Forms
 
@@ -192,3 +195,27 @@ Feel free to let me know what else you want added via:
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Jumbotron (ex Hero Unit)		 | bs3-jumbotron 				  |
+
+### Panels
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Panel       | bs3-panel                  |
+| Panel (contextual)      | bs3-panel:{warning,success,info,danger,primary}                  |
+| Panel (with heading)      | bs3-panel:heading                  |
+| Panel (with footer)      | bs3-panel:footer                  |
+
+### List-groups
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| List group       | bs3-list-group                  |
+| List group (with badges)       | bs3-list-group:badges                  |
+| List group (linked list)      | bs3-list-group:linked                  |
+| List group (with content)      | bs3-list-group:content                  |
+
+### Media Objects
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Media Object       | bs3-media-object       |
