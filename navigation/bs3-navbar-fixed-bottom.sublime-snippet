@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="navbar navbar-fixed-bottom">
+<nav class="navbar navbar-default navbar-fixed-bottom" role="navigation">
 	<a class="navbar-brand" href="${1:#}">${2:Title}</a>
 	<ul class="nav navbar-nav">
 		<li class="active">
@@ -10,7 +10,7 @@
 			<a href="#">${4:Link}</a>
 		</li>
 	</ul>
-</div>
+</nav>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-navbar:fixed-bottom</tabTrigger>

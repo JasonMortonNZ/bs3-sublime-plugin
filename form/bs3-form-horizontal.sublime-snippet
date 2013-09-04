@@ -1,19 +1,17 @@
 <snippet>
     <content><![CDATA[
-<form action="${1}" method="${2:POST}" class="form-horizontal">
-    <fieldset>
-        <div class="row">
+<form action="${1}" method="${2:POST}" class="form-horizontal" role="form">
+        <div class="form-group">
             <legend>${3:Form title}</legend>
         </div>
 
         ${4}
         
-        <div class="row">
-            <div class="col col-sm-10 col-offset-2">
+        <div class="form-group">
+            <div class="col-sm-10 col-offset-2">
                 <button type="submit" class="btn btn-primary">${5:Submit}</button>
             </div>
         </div>
-    </fieldset>
 </form>    
 ${6}
 ]]></content>

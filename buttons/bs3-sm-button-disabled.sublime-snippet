@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button type="button" class="btn btn-small btn-${1:default} disabled">${2:button}</button>
+<button type="button" class="btn btn-sm btn-${1:default} disabled">${2:button}</button>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-sm-button:disabled</tabTrigger>

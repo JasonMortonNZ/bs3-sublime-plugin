@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+<ul class="list-group">
+    <li class="list-group-item">
+        <span class="badge">5</span>
+        Item 1
+    </li>
+    <li class="list-group-item">
+        <span class="badge">10</span>
+        Item 2
+    </li>
+    <li class="list-group-item">
+        <span class="badge">15</span>
+        Item 3
+    </li>
+</ul>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs3-list-group:badges</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

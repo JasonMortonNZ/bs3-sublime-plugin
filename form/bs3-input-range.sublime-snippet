@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<input type="range" name="${1}" id="input${1/(\w+)/\u\1/g}" ${2:value="${3}"} ${4:min="{5}"} ${6:max="${7}"} ${8:step="${9}"} ${10:required="required"} ${11:title="${12}"}>
+<input type="range" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"} ${4:min="{5}"} ${6:max="${7}"} ${8:step="${9}"} ${10:required="required"} ${11:title="${12}"}>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-input:range</tabTrigger>

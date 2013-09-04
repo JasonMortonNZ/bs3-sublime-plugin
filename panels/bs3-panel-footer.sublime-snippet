@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+<div class="panel panel-default">
+      <div class="panel-body">
+            Panel content
+      </div>
+      <div class="panel-footer">
+            Panel footer
+        </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs3-panel:footer</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

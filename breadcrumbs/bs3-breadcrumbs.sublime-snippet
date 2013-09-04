@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<ul class="breadcrumb">
+<ol class="breadcrumb">
     <li>
     	<a href="${1:#}">${2:Home}</a>
     </li>
@@ -8,7 +8,7 @@
     	<a href="#">Link</a>
     </li>}
     <li class="active">${4:Current}</li>
-</ul>
+</ol>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-breadcrumbs</tabTrigger>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="checkbox">
+    <label>
+        <input type="checkbox" value="${1}">
+        ${2:Checkbox}
+    </label>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-input:checkbox</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

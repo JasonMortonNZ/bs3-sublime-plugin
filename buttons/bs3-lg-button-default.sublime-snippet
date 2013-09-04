@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button type="button" class="btn btn-large btn-default">${1:button}</button>
+<button type="button" class="btn btn-lg btn-default">${1:button}</button>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-lg-button:default</tabTrigger>
