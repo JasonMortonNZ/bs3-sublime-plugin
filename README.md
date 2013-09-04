@@ -26,7 +26,7 @@ Feel free to let me know what else you want added via:
 - [Navigation](#navigation)
 - [Panels](#panels)
 - [List Groups](#list-groups)
-- [Media Objects](#media)
+- [Media Objects](#media-objects)
 
 ### Forms
 
