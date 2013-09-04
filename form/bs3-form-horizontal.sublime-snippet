@@ -1,6 +1,11 @@
 <snippet>
     <content><![CDATA[
+<<<<<<< HEAD
 <form action="${1}" method="${2:POST}" class="form-horizontal" role="form">
+=======
+<form action="${1}" method="${2:POST}" class="form-horizontal">
+    <fieldset>
+>>>>>>> ee92897f9e6bc44d2cbfd3eabf5863a8d1fd0b0e
         <div class="form-group">
             <legend>${3:Form title}</legend>
         </div>
@@ -8,7 +13,11 @@
         ${4}
         
         <div class="form-group">
+<<<<<<< HEAD
             <div class="col-sm-10 col-offset-2">
+=======
+            <div class="col col-sm-10 col-offset-2">
+>>>>>>> ee92897f9e6bc44d2cbfd3eabf5863a8d1fd0b0e
                 <button type="submit" class="btn btn-primary">${5:Submit}</button>
             </div>
         </div>

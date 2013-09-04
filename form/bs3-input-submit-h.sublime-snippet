@@ -1,7 +1,11 @@
 <snippet>
 	<content><![CDATA[
 <div class="form-group">
+<<<<<<< HEAD
     <div class="col-${3:sm-10} col-offset-2">
+=======
+    <div class="col col-${3:sm-10} col-offset-2">
+>>>>>>> ee92897f9e6bc44d2cbfd3eabf5863a8d1fd0b0e
         <button type="submit" class="btn btn-primary">${5:Submit}</button>
     </div>
 </div>

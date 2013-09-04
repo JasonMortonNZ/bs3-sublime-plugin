@@ -2,7 +2,11 @@
 	<content><![CDATA[
 <div class="form-group">
     <label for="input${1/(\w+)/\u\1/g}" class="col-${2:sm-2} control-label">${1/(\w+)/\u\1/g}:</label>
+<<<<<<< HEAD
     <div class="col-${3:sm-10}">
+=======
+    <div class="col col-${3:sm-10}">
+>>>>>>> ee92897f9e6bc44d2cbfd3eabf5863a8d1fd0b0e
         <input type="date" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${4:value="${5}"} ${6:required="required"} ${7:title="${8}"}>
     </div>
 </div>
