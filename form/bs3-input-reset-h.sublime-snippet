@@ -1,15 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <div class="form-group">
-<<<<<<< HEAD
     <div class="col-sm-${1:10} col-offset-${2:2}">
         <input type="reset" value="${3:Reset}" class="btn btn-default">
     </div>
-=======
-	<div class="col col-sm-${1:10} col-offset-${2:2}">
-		<input type="reset" value="${3:Reset}" class="btn btn-default">
-	</div>
->>>>>>> ee92897f9e6bc44d2cbfd3eabf5863a8d1fd0b0e
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
