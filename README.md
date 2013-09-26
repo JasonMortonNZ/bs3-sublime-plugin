@@ -128,7 +128,7 @@ Feel free to let me know what else you want added via:
 
 ### Grid
 
-**Note:** The bs3-col snippet can be used both on it's own or with the addition of a colon followed by the number of columns required: **E.g.**
+**Note:** The bs3-col snippet can be used both on its own or with the addition of a colon followed by the number of columns required: **E.g.**
 
 - bs3-col
 - bs3-col:6
@@ -162,7 +162,7 @@ Feel free to let me know what else you want added via:
 | Danger Label					 | bs3-label:danger				  |
 | Info Label					 | bs3-label:info 				  |
 | Success Label					 | bs3-label:success			  |
-| Warngin Label					 | bs3-label:warning			  |
+| Warning Label					 | bs3-label:warning			  |
 
 ### Pagination
 
