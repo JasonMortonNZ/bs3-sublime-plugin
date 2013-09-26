@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
 <div class="btn-group">
-    <button type="button" class="btn btn-default">Left</button>
-    <button type="button" class="btn btn-default">Middle</button>
-    <button type="button" class="btn btn-default">Right</button>
+    <${1:button type="button"} ${2:} class="btn btn-default">Left</${1:button}>
+    <${1:button type="button"} ${2:} class="btn btn-default">Middle</${1:button}>
+    <${1:button type="button"} ${2:} class="btn btn-default">Right</${1:button}>
 </div>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
