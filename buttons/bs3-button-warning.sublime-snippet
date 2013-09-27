@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<${1:button type="button"} ${2:} class="btn btn-warning">${3:button}</${1:button}>
+<${1:button} ${2:type="button"} class="btn btn-warning">${3:button}</${1:button}>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-button:warning</tabTrigger>
