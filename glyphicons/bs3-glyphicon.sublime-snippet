@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+		<span class="glyphicon ${1:glyphicon class}"></span>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-glyphicons:glyphicons</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
