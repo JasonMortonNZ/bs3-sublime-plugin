@@ -27,6 +27,15 @@ Feel free to let me know what else you want added via:
 - [Panels](#panels)
 - [List Groups](#list-groups)
 - [Media Objects](#media-objects)
+- [Glyphicons](#glyphicons)
+
+
+### GLYPHICONS
+
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| Glyphicon		         | bs3-glyphicons                 |
+
 
 ### CDN
 
