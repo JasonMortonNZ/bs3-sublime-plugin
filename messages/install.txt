@@ -1,0 +1,16 @@
+=============================================
+Thank you for installing Bootstrap 3 Snippets
+=============================================
+
+Bootstrap 3 snippets is a selection of snippets
+that will greatly improve your workflow.
+
+This package is compatible with both Sublime
+Text versions 2 & 3.
+
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin
+
+------------------------------
+Follow me on Twitter: @JasonMortonNZ
+------------------------------
