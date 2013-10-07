@@ -27,14 +27,7 @@ Feel free to let me know what else you want added via:
 - [Panels](#panels)
 - [List Groups](#list-groups)
 - [Media Objects](#media-objects)
-- [Glyphicons](#glyphicons)
-
-
-### GLYPHICONS
-
-| Component                      | Snippet code                   |
-|------------------------------- | :-----------------------------:|
-| Glyphicon		         | bs3-glyphicons                 |
+- [Icons](#icons)
 
 
 ### CDN
@@ -91,7 +84,6 @@ Feel free to let me know what else you want added via:
 | Submit Input 					 | bs3-input:submit   			  | :h 		|
 | Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
 | Radio Box Input 				 | bs3-input:radio  			  | :h 		|
-		
 
 ### Alerts
 
@@ -159,10 +151,10 @@ Feel free to let me know what else you want added via:
 
 ### Icons
 
-| Component                		 | Snippet code                   |
-|------------------------------- | :----------------------------: |
-| Icon (use with Font Awesome)	 | bs3-icon						  |
-| Icon (use with Glyphicons)	 | bs3-icon:g					  |
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| Glyphicon		                 | bs3-icon:glyphicon             |
+| Icon (Font Awesome)		     | bs3-icon                       |
 
 ### Images
 
