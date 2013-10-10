@@ -11,6 +11,7 @@ Feel free to let me know what else you want added via:
 
 ## What's included - contents
 - [CDN](#cdn)
+- [Templates](#templates)
 - [Forms](#forms)
 - [Tables](#tables)
 - [Input](#input-fields-form-fields)
@@ -38,6 +39,12 @@ Feel free to let me know what else you want added via:
 | CDN link (both CSS & JS)       | bs3-cdn                        |
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
+
+### Templates
+
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| HTML5 Template Layout          | bs3-template:html5             |
 
 ### Forms
 

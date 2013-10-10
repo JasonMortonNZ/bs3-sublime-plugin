@@ -5,21 +5,21 @@
   <head>
     <title>${1:Title Page}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="${2:css/bootstrap.min.css}" rel="stylesheet" media="screen">
+    <!-- Bootstrap CSS -->
+    <link href="${2://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css}" rel="stylesheet" media="screen">
   </head>
   <body>
-    <h1>${4:Hello World}</h1>
+    <h1 class="text-center">${5:Hello World}</h1>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="//code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="${3:js/bootstrap.min.js}"></script>
+    <!-- jQuery -->
+    <script src="${4://code.jquery.com/jquery.js}"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="${3://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js}"></script>
   </body>
 </html>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-html5-template</tabTrigger>
+    <tabTrigger>bs3-template:html</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
 </snippet>
