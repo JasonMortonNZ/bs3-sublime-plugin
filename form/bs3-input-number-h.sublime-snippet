@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <div class="form-group">
-    <label for="input${1/(\w+)/\u\1/g}" class="col-${2:sm-2} control-label">${1/(\w+)/\u\1/g}:</label>
-    <div class="col-${3:sm-10}">
-        <input type="number" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${4:value="${5}"} ${5:min="{6}"} ${7:max="${8}"} ${9:step="${10}"} ${11:required="required"} ${12:title="${13}"}>
-    </div>
+	<label for="input${1/(\w+)/\u\1/g}" class="col-${2:sm-2} control-label">${1/(\w+)/\u\1/g}:</label>
+	<div class="col-${3:sm-10}">
+		<input type="number" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${4:value="${5}"} ${5:min="{6}"} ${7:max="${8}"} ${9:step="${10}"} ${11:required="required"} ${12:title="${13}"}>
+	</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

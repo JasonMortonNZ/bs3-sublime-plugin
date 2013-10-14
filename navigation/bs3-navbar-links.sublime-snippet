@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 <ul class="nav navbar-nav">
-    <li class="active">
-    	<a href="${1:#}">${2:Home}</a>
-    </li>
-    <li>
-    	<a href="${3:#}">${4:Link}</a>
-    </li>
+	<li class="active">
+		<a href="${1:#}">${2:Home}</a>
+	</li>
+	<li>
+		<a href="${3:#}">${4:Link}</a>
+	</li>
 </ul>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <ul class="pager">
-    <li><a href="#">Previous</a></li>
-    <li><a href="#">Next</a></li>
+	<li><a href="#">Previous</a></li>
+	<li><a href="#">Next</a></li>
 </ul>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

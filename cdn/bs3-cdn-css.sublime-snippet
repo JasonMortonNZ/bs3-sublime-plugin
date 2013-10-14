@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-cdn:css</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.html</scope> -->
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-cdn:css</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
 </snippet>

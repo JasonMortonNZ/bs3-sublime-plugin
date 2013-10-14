@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <div class="radio">
-    <label>
-        <input type="radio" name="${1}" id="input${1/(\w+)/\u\1/g}" value="${2}" ${3:checked="checked"}>
-        ${4:Radio Box}
-    </label>
+	<label>
+		<input type="radio" name="${1}" id="input${1/(\w+)/\u\1/g}" value="${2}" ${3:checked="checked"}>
+		${4:Radio Box}
+	</label>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

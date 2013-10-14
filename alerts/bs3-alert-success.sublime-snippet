@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <div class="alert alert-success">
-    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-    <strong>${1:Title!}</strong> ${2:Alert body ...}
+	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+	<strong>${1:Title!}</strong> ${2:Alert body ...}
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
