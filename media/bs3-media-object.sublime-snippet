@@ -1,17 +1,17 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="media">
-    <a class="pull-left" href="${1:#}">
-        <img class="media-object" src="${2:#}" alt="${3:Image}">
-    </a>
-    <div class="media-body">
-        <h4 class="media-heading">${4:Media heading}</h4>
-        <p>${5:Text goes here...}</p>
-    </div>
+	<a class="pull-left" href="${1:#}">
+		<img class="media-object" src="${2:#}" alt="${3:Image}">
+	</a>
+	<div class="media-body">
+		<h4 class="media-heading">${4:Media heading}</h4>
+		<p>${5:Text goes here...}</p>
+	</div>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-media-object</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-media-object</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

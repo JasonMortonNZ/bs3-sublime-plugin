@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
 <div class="checkbox">
-    <label>
-        <input type="checkbox" value="${1}">
-        ${2:Checkbox}
-    </label>
+	<label>
+		<input type="checkbox" value="${1}">
+		${2:Checkbox}
+	</label>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

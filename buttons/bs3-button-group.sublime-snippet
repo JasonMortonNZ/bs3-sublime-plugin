@@ -1,13 +1,13 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="btn-group">
-    <${1:button} ${2:type="button"} class="btn btn-default">Left</${1:button}>
-    <${1:button} ${2:type="button"} class="btn btn-default">Middle</${1:button}>
-    <${1:button} ${2:type="button"} class="btn btn-default">Right</${1:button}>
+	<${1:button} ${2:type="button"} class="btn btn-default">Left</${1:button}>
+	<${1:button} ${2:type="button"} class="btn btn-default">Middle</${1:button}>
+	<${1:button} ${2:type="button"} class="btn btn-default">Right</${1:button}>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-group</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -1,35 +1,35 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="panel panel-${1:default}">
-    <!-- Default panel contents -->
-    <div class="panel-heading">Panel heading</div>
-        <div class="panel-body">
-            <p>Text goes here...</p>
-        </div>
+	<!-- Default panel contents -->
+	<div class="panel-heading">Panel heading</div>
+		<div class="panel-body">
+			<p>Text goes here...</p>
+		</div>
 
-        <!-- Table -->
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>${2:Heading 1}</th>
-                </tr>
-                <tr>
-                    <th>${3:Heading 2}</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>${4:Content 1}</td>
-                </tr>
-                <tr>
-                    <td>${5:Content 2}</td>
-                </tr>
-            </tbody>
-        </table>
+	<!-- Table -->
+	<table class="table">
+		<thead>
+			<tr>
+				<th>${2:Heading 1}</th>
+			</tr>
+			<tr>
+				<th>${3:Heading 2}</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>${4:Content 1}</td>
+			</tr>
+			<tr>
+				<td>${5:Content 2}</td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-panel:table</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-panel:table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
 </snippet>
