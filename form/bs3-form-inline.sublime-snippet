@@ -1,20 +1,17 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <form action="${1}" method="${2:POST}" class="form-inline" role="form">
 
-    ${5:<div class="form-group">
-        <label class="sr-only" for="">label</label>
-        <input type="email" class="form-control" id="" placeholder="Input field">
-    </div>}
+	${5:<div class="form-group">
+		<label class="sr-only" for="">label</label>
+		<input type="email" class="form-control" id="" placeholder="Input field">
+	</div>}
 
-    ${4}
+	${4}
 
-    <button type="submit" class="btn btn-primary">${5:Submit}</button>
-</form>    
+	<button type="submit" class="btn btn-primary">${5:Submit}</button>
+</form>
 ${5}
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-form:inline</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-form:inline</tabTrigger>
 </snippet>

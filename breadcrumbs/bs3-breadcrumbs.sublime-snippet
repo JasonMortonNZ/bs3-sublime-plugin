@@ -1,17 +1,14 @@
 <snippet>
 	<content><![CDATA[
 <ol class="breadcrumb">
-    <li>
-    	<a href="${1:#}">${2:Home}</a>
-    </li>
-    ${3:<li>
-    	<a href="#">Link</a>
-    </li>}
-    <li class="active">${4:Current}</li>
+	<li>
+		<a href="${1:#}">${2:Home}</a>
+	</li>
+	${3:<li>
+		<a href="#">Link</a>
+	</li>}
+	<li class="active">${4:Current}</li>
 </ol>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-breadcrumbs</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

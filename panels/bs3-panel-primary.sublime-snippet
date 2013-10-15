@@ -1,16 +1,13 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="panel panel-${1:primary}">
-      <div class="panel-heading">
-            <h3 class="panel-title">Panel title</h3>
-      </div>
-      <div class="panel-body">
-            Panel content
-      </div>
+	  <div class="panel-heading">
+			<h3 class="panel-title">Panel title</h3>
+	  </div>
+	  <div class="panel-body">
+			${2:Panel content}
+	  </div>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-panel:primary</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-panel:primary</tabTrigger>
 </snippet>

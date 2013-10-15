@@ -30,7 +30,7 @@ Feel free to let me know what else you want added via:
 - [Media Objects](#media-objects)
 - [Icons](#icons)
 - [Clearfix](#clearfix)
-
+- [License](#license)
 
 ### CDN
 
@@ -242,3 +242,7 @@ Feel free to let me know what else you want added via:
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Clearfix                       | bs3-clearfix                   |
+
+### License
+
+Twitter Bootstrap 3 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).

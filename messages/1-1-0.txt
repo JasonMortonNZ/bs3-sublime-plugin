@@ -1,0 +1,14 @@
+============================================================
+Bootstrap 3 Snippets - Has been updated !! -> v1.1.0
+============================================================
+Follow me on Twitter: @JasonMortonNZ
+------------------------------------------------------------
+
+New Features
+------------------------------------------------------------
+- Added MIT license
+- Updated "bs3-form:horizontal"
+- Normalized indention to tabs, as per the Sublime Text docs
+------------------------------------------------------------
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin

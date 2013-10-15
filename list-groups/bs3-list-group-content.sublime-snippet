@@ -1,14 +1,11 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="list-group">
-    <a href="#" class="list-group-item active">
-        <h4 class="list-group-item-heading">${1:List group item heading}</h4>
-        <p class="list-group-item-text">${2:Content goes here}</p>
-    </a>
+	<a href="#" class="list-group-item active">
+		<h4 class="list-group-item-heading">${1:List group item heading}</h4>
+		<p class="list-group-item-text">${2:Content goes here}</p>
+	</a>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-list-group:content</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-list-group:content</tabTrigger>
 </snippet>

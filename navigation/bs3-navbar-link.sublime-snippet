@@ -4,8 +4,5 @@
 	<a href="${2:#}" class="navbar-link">${3:Links}</a>
 </p>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<!-- <tabTrigger>hello</tabTrigger> -->
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-navbar:link</tabTrigger>
 </snippet>

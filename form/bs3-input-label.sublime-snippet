@@ -1,9 +1,6 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <label for="input${1/(\w+)/\u\1/g}" ${2:class="col-sm-2"}>${3}</label>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-imput:label</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-imput:label</tabTrigger>
 </snippet>

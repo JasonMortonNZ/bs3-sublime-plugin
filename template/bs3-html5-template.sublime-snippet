@@ -1,25 +1,22 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>${1:Title Page}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap CSS -->
-    <link href="${2://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css}" rel="stylesheet" media="screen">
-  </head>
-  <body>
-    <h1 class="text-center">${5:Hello World}</h1>
+	<head>
+		<title>${1:Title Page}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Bootstrap CSS -->
+		<link href="${2://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css}" rel="stylesheet" media="screen">
+	</head>
+	<body>
+		<h1 class="text-center">${5:Hello World}</h1>
 
-    <!-- jQuery -->
-    <script src="${4://code.jquery.com/jquery.js}"></script>
-    <!-- Bootstrap JavaScript -->
-    <script src="${3://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js}"></script>
-  </body>
+		<!-- jQuery -->
+		<script src="${4://code.jquery.com/jquery.js}"></script>
+		<!-- Bootstrap JavaScript -->
+		<script src="${3://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js}"></script>
+	</body>
 </html>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-template:html</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-template:html</tabTrigger>
 </snippet>
