@@ -5,15 +5,14 @@
 			<legend>${3:Form title}</legend>
 		</div>
 
-		${4}
+		${0}
 
 		<div class="form-group">
 			<div class="col-sm-10 col-sm-offset-2">
-				<button type="submit" class="btn btn-primary">${5:Submit}</button>
+				<button type="submit" class="btn btn-primary">${4:Submit}</button>
 			</div>
 		</div>
 </form>
-${6}
 ]]></content>
 	<tabTrigger>bs3-form:horizontal</tabTrigger>
 </snippet>

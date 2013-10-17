@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
-
+	${0}
 </div>
 ]]></content>
 	<tabTrigger>bs3-col:7</tabTrigger>
