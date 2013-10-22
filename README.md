@@ -138,10 +138,9 @@ Feel free to let me know what else you want added via:
 |------------------------------- | :----------------------------: | :-----:	|
 | Button		 				 | bs3-button					  |  *		|
 | Block Button	 				 | bs3-block-button				  |  *		|
-| Mini Button		 			 | bs3-mini-button				  |	 *		|
-| Small Button		 			 | bs3-small-button				  |	 *		|
-| Large Button		 			 | bs3-large-button				  |	 *		|
-| Button		 				 | bs3-button					  |	 *		|
+| Mini Button		 			 | bs3-xs-button				  |	 *		|
+| Small Button		 			 | bs3-sm-button				  |	 *		|
+| Large Button		 			 | bs3-la-button				  |	 *		|
 
 ### Grid
 
