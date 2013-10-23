@@ -100,11 +100,8 @@ Feel free to let me know what else you want added via:
 | Alert Box (Default)			 | bs3-alert 					  |
 | Danger Alert Box				 | bs3-alert:danger 			  |
 | Info Alert Box				 | bs3-alert:info				  |
-| Success Alert Box				 | bs3-alert:success			  |
-| Block Alert Box (Default)		 | bs3-alert:block				  |
-| Danger Block Alert Box		 | bs3-alert:block:danger 		  |
-| Info Block Alert Box			 | bs3-alert:block:info 		  |
-| Success Block Alert Box		 | bs3-alert:block:success 		  |
+| Success Alert Box              | bs3-alert:success              |
+| Warning Alert Box				 | bs3-alert:warning			  |
 
 ### Badges
 
