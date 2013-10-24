@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<i class="icon icon-${1}"></i>
+<i class="icon icon-${1:icon}"></i>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-icon</tabTrigger>

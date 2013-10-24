@@ -1,0 +1,16 @@
+=============================================
+Bootstrap 3 Snippets - Has been updated !!
+=============================================
+
+Added & Updated features
+------------------------
+ - Added "bs3-icon"
+ - Added "bs3-icon:glyphicon"
+ - Added "bs3-clearfix"
+
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin
+
+------------------------------
+Follow me on Twitter: @JasonMortonNZ
+------------------------------

@@ -27,6 +27,9 @@ Feel free to let me know what else you want added via:
 - [Panels](#panels)
 - [List Groups](#list-groups)
 - [Media Objects](#media-objects)
+- [Icons](#icons)
+- [Clearfix](#clearfix)
+
 
 ### CDN
 
@@ -47,7 +50,7 @@ Feel free to let me know what else you want added via:
 ### Tables
 
 | Component                		 | Snippet code                   |
-|------------------------------- | :----------------------------: | 
+|------------------------------- | :----------------------------: |
 | Table                    		 | bs3-table                      |
 | Bordered Table           		 | bs3-table:bordered             |
 | Condensed Table          		 | bs3-table:condensed            |
@@ -82,14 +85,13 @@ Feel free to let me know what else you want added via:
 | Submit Input 					 | bs3-input:submit   			  | :h 		|
 | Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
 | Radio Box Input 				 | bs3-input:radio  			  | :h 		|
-		
 
 ### Alerts
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Alert Box (Default)			 | bs3-alert 					  |
-| Danger Alert Box				 | bs3-alert:danger 			  |	 
+| Danger Alert Box				 | bs3-alert:danger 			  |
 | Info Alert Box				 | bs3-alert:info				  |
 | Success Alert Box				 | bs3-alert:success			  |
 | Block Alert Box (Default)		 | bs3-alert:block				  |
@@ -150,10 +152,10 @@ Feel free to let me know what else you want added via:
 
 ### Icons
 
-| Component                		 | Snippet code                   |
-|------------------------------- | :----------------------------: |
-| Icon (use with Font Awesome)	 | bs3-icon						  |
-| Icon (use with Glyphicons)	 | bs3-icon:g					  |
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| Glyphicon		                 | bs3-icon:glyphicon             |
+| Icon (Font Awesome)		     | bs3-icon                       |
 
 ### Images
 
@@ -161,7 +163,7 @@ Feel free to let me know what else you want added via:
 |------------------------------- | :----------------------------: |
 | Thumbnail	 					 | bs3-thumbnail 				  |
 | Thumbnail with content		 | bs3-thumbnail:content		  |
- 
+
 ### Labels
 
 | Component                		 | Snippet code                   |
@@ -177,7 +179,7 @@ Feel free to let me know what else you want added via:
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Pager		 					 | bs3-pager	 				  |
-| Aligned Pager             	 | bs3-pager:aligned 			  |	
+| Aligned Pager             	 | bs3-pager:aligned 			  |
 | Pagination					 | bs3-pagination				  |
 | Pagination:small				 | bs3-pagination:small			  |
 | Pagination:large				 | bs3-pagination:large			  |
@@ -208,22 +210,28 @@ Feel free to let me know what else you want added via:
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Panel       | bs3-panel                  |
-| Panel (contextual)      | bs3-panel:{warning,success,info,danger,primary}                  |
-| Panel (with heading)      | bs3-panel:heading                  |
-| Panel (with footer)      | bs3-panel:footer                  |
+| Panel                          | bs3-panel                      |
+| Panel (contextual)             | bs3-panel:{warning,success,info,danger,primary}                  |
+| Panel (with heading)           | bs3-panel:heading              |
+| Panel (with footer)            | bs3-panel:footer               |
 
 ### List-groups
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| List group       | bs3-list-group                  |
-| List group (with badges)       | bs3-list-group:badges                  |
-| List group (linked list)      | bs3-list-group:linked                  |
-| List group (with content)      | bs3-list-group:content                  |
+| List group                     | bs3-list-group                 |
+| List group (with badges)       | bs3-list-group:badges          |
+| List group (linked list)       | bs3-list-group:linked          |
+| List group (with content)      | bs3-list-group:content         |
 
 ### Media Objects
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Media Object       | bs3-media-object       |
+| Media Object                   | bs3-media-object               |
+
+### Clearfix
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Clearfix                       | bs3-clearfix                   |
