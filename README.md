@@ -137,7 +137,7 @@ Feel free to let me know what else you want added via:
 | Block Button	 				 | bs3-block-button				  |  *		|
 | Mini Button		 			 | bs3-xs-button				  |	 *		|
 | Small Button		 			 | bs3-sm-button				  |	 *		|
-| Large Button		 			 | bs3-la-button				  |	 *		|
+| Large Button		 			 | bs3-lg-button				  |	 *		|
 
 ### Grid
 
