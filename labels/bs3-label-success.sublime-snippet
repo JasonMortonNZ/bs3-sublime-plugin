@@ -2,8 +2,5 @@
 	<content><![CDATA[
 <span class="label label-success">${1:Label}</span>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-label:success</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

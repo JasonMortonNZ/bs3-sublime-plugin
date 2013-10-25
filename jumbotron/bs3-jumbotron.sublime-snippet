@@ -1,17 +1,14 @@
 <snippet>
 	<content><![CDATA[
 <div class="jumbotron">
-    <div class="container">
-        <h1>${1:Hello, world!}</h1>
-        <p>${2:Contents ...}</p>
-        <p>
-        	<a class="btn btn-primary btn-large">${3:Learn more}</a>
-        </p>
-    </div>
+	<div class="container">
+		<h1>${1:Hello, world!}</h1>
+		<p>${2:Contents ...}</p>
+		<p>
+			<a class="btn btn-primary btn-large">${3:Learn more}</a>
+		</p>
+	</div>
 </div>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-jumbotron</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

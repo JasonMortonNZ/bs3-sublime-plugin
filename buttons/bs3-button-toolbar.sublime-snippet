@@ -1,13 +1,10 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="btn-toolbar">
-    <div class="btn-group"></div>
-    <div class="btn-group"></div>
-    <div class="btn-group"></div>
+	<div class="btn-group"></div>
+	<div class="btn-group"></div>
+	<div class="btn-group"></div>
 </div>
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>bs3-toolbar</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+	<tabTrigger>bs3-toolbar</tabTrigger>
 </snippet>

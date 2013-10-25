@@ -11,6 +11,7 @@ Feel free to let me know what else you want added via:
 
 ## What's included - contents
 - [CDN](#cdn)
+- [Templates](#templates)
 - [Forms](#forms)
 - [Tables](#tables)
 - [Input](#input-fields-form-fields)
@@ -29,7 +30,7 @@ Feel free to let me know what else you want added via:
 - [Media Objects](#media-objects)
 - [Icons](#icons)
 - [Clearfix](#clearfix)
-
+- [License](#license)
 
 ### CDN
 
@@ -38,6 +39,12 @@ Feel free to let me know what else you want added via:
 | CDN link (both CSS & JS)       | bs3-cdn                        |
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
+
+### Templates
+
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| HTML5 Template Layout          | bs3-template:html5             |
 
 ### Forms
 
@@ -93,11 +100,8 @@ Feel free to let me know what else you want added via:
 | Alert Box (Default)			 | bs3-alert 					  |
 | Danger Alert Box				 | bs3-alert:danger 			  |
 | Info Alert Box				 | bs3-alert:info				  |
-| Success Alert Box				 | bs3-alert:success			  |
-| Block Alert Box (Default)		 | bs3-alert:block				  |
-| Danger Block Alert Box		 | bs3-alert:block:danger 		  |
-| Info Block Alert Box			 | bs3-alert:block:info 		  |
-| Success Block Alert Box		 | bs3-alert:block:success 		  |
+| Success Alert Box              | bs3-alert:success              |
+| Warning Alert Box				 | bs3-alert:warning			  |
 
 ### Badges
 
@@ -131,10 +135,9 @@ Feel free to let me know what else you want added via:
 |------------------------------- | :----------------------------: | :-----:	|
 | Button		 				 | bs3-button					  |  *		|
 | Block Button	 				 | bs3-block-button				  |  *		|
-| Mini Button		 			 | bs3-mini-button				  |	 *		|
-| Small Button		 			 | bs3-small-button				  |	 *		|
-| Large Button		 			 | bs3-large-button				  |	 *		|
-| Button		 				 | bs3-button					  |	 *		|
+| Mini Button		 			 | bs3-xs-button				  |	 *		|
+| Small Button		 			 | bs3-sm-button				  |	 *		|
+| Large Button		 			 | bs3-lg-button				  |	 *		|
 
 ### Grid
 
@@ -235,3 +238,7 @@ Feel free to let me know what else you want added via:
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Clearfix                       | bs3-clearfix                   |
+
+### License
+
+Twitter Bootstrap 3 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).

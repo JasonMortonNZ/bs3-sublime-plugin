@@ -2,8 +2,5 @@
 	<content><![CDATA[
 <${1:button} ${2:type="button"} class="btn btn-sm btn-primary">${3:button}</${1:button}>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-sm-button:primary</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

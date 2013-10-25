@@ -1,6 +1,8 @@
-=============================================
+============================================================
 Thank you for installing Bootstrap 3 Snippets
-=============================================
+============================================================
+Follow me on Twitter: @JasonMortonNZ
+------------------------------------------------------------
 
 Bootstrap 3 snippets is a selection of snippets
 that will greatly improve your workflow.
@@ -10,7 +12,3 @@ Text versions 2 & 3.
 
 Documentation, examples & issue filing can be found here:
 https://github.com/JasonMortonNZ/bs3-sublime-plugin
-
-------------------------------
-Follow me on Twitter: @JasonMortonNZ
-------------------------------

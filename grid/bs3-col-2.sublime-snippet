@@ -1,11 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-
+	${0}
 </div>
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-col:2</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

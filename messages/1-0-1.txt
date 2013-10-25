@@ -1,0 +1,16 @@
+============================================================
+Bootstrap 3 Snippets - Has been updated !!
+============================================================
+------------------------------------------------------------
+Follow me on Twitter: @JasonMortonNZ
+------------------------------------------------------------
+
+New Features
+------------------------------------------------------------
+ - Added "bs3-template:html5"
+ - Updated "bs3-cdn"
+ - Updated "bs3-cdn:js"
+ - Updated "bs3-cdn:css"
+------------------------------------------------------------
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin

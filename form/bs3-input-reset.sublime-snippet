@@ -2,8 +2,5 @@
 	<content><![CDATA[
 <input type="reset" value="${1:Reset}" class="btn btn-default">
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-input:reset</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>
