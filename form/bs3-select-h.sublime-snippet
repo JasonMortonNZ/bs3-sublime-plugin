@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	<label for="input${1/(\w+)/\u\1/g}" class="col-${2:sm-2} control-label">${1/(\w+)/\u\1/g}:</label>
+	<div class="col-${2:sm-10}">
+		<select name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${3:required="required"}>
+			<option value="">${0}</option>
+		</select>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>bs3-select:h</tabTrigger>
+</snippet>

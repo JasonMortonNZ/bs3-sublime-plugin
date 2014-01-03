@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<select name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:required="required"}>
+	<option value="">${0}</option>
+</select>
+]]></content>
+	<tabTrigger>bs3-select</tabTrigger>
+</snippet>
