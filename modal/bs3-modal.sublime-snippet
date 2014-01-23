@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+${1:<a class="btn btn-primary" data-toggle="modal" href='#${2:modal-id}'>Trigger modal</a>}
+<div class="modal fade" id="${2:modal-id}">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				<h4 class="modal-title">${3:Modal title}</h4>
+			</div>
+			<div class="modal-body">
+				${0}
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">${4:Close}</button>
+				<button type="button" class="btn btn-primary">${5:Save changes}</button>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs3-modal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
