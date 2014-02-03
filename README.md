@@ -1,7 +1,7 @@
-Twitter Bootstrap 3 - Sublime Plugin
+Bootstrap 3 - Sublime Plugin
 ==================
 
-A sublime plugin complete with Twitter Bootstrap 3 snippets
+A sublime plugin complete with Bootstrap 3 snippets
 
 Feel free to let me know what else you want added via:
 
@@ -66,7 +66,7 @@ Feel free to let me know what else you want added via:
 
 ### Input Fields (Form fields)
 
-**Note:** you can add " :h " to the end of any input field snippet to make it compatible with Twitter Bootstrap 3 horizontal forms. **E.g.**
+**Note:** you can add " :h " to the end of any input field snippet to make it compatible with Bootstrap 3 horizontal forms. **E.g.**
 - bs3-input:text:h
 - bs3-input:hidden:h
 
@@ -242,4 +242,4 @@ Feel free to let me know what else you want added via:
 
 ### License
 
-Twitter Bootstrap 3 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Bootstrap 3 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
