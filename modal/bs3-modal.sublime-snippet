@@ -19,8 +19,5 @@ ${1:<a class="btn btn-primary" data-toggle="modal" href='#${2:modal-id}'>Trigger
 	</div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bs3-modal</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>

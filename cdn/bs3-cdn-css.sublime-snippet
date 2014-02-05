@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
 ]]></content>
 	<tabTrigger>bs3-cdn:css</tabTrigger>
 </snippet>
