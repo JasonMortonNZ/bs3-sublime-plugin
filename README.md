@@ -19,6 +19,7 @@ Feel free to let me know what else you want added via:
 - [Badges](#badges)
 - [Breadcrumbs](#breadcrumbs)
 - [Buttons](#buttons)
+- [Carousel](#carousel)
 - [Grid](#grid)
 - [Images](#images)
 - [Icons](#icons)
@@ -112,9 +113,15 @@ Feel free to let me know what else you want added via:
 
 ### Breadcrumbs
 
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Breadcrumbs                    | bs3-breadcrumbs                |
+
+### Carousel
+
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Breadcrumbs	 				 | bs3-breadcrumbs				  |
+| Carousel	      				 | bs3-carousel	       			  |
 
 ### Buttons
 
