@@ -3,7 +3,7 @@
 <!-- Latest compiled and minified CSS & JS -->
 <link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
 ${1:<script src="//code.jquery.com/jquery.js"></script>}
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 ]]></content>
 	<tabTrigger>bs3-cdn</tabTrigger>
 </snippet>
