@@ -3,5 +3,5 @@
 <input type="reset" value="${1:Reset}" class="btn btn-default">
 ]]></content>
 	<tabtrigger>bs3-input:reset</tabtrigger>
-    <description>bs3-input:reset</tabtrigger>
+    <description>bs3-input:reset</description>
 </snippet>

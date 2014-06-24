@@ -3,5 +3,5 @@
 <span class="label label-success">${1:Label}</span>
 ]]></content>
 	<tabtrigger>bs3-label:success</tabtrigger>
-    <description>bs3-label:success</tabtrigger>
+    <description>bs3-label:success</description>
 </snippet>

@@ -3,5 +3,5 @@
 <input type="date" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"} ${4:required="required"} ${5:title="${6}"}>
 ]]></content>
 	<tabtrigger>bs3-input:date</tabtrigger>
-    <description>bs3-input:date</tabtrigger>
+    <description>bs3-input:date</description>
 </snippet>

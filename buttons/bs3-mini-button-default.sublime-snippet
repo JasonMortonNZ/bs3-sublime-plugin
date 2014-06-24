@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-xs btn-default">${3:button}</${1:button}>
 ]]></content>
 	<tabtrigger>bs3-xs-button:default</tabtrigger>
-    <description>bs3-xs-button:default</tabtrigger>
+    <description>bs3-xs-button:default</description>
 </snippet>

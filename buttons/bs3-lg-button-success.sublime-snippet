@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-lg btn-success">${3:button}</${1:button}>
 ]]></content>
 	<tabtrigger>bs3-lg-button:success</tabtrigger>
-    <description>bs3-lg-button:success</tabtrigger>
+    <description>bs3-lg-button:success</description>
 </snippet>

@@ -3,5 +3,5 @@
 <button type="submit" class="btn btn-primary">${5:Submit}</button>
 ]]></content>
 	<tabtrigger>bs3-input:submit</tabtrigger>
-    <description>bs3-input:submit</tabtrigger>
+    <description>bs3-input:submit</description>
 </snippet>

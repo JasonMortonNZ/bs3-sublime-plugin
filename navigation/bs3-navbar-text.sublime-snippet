@@ -3,5 +3,5 @@
 <p class="navbar-text">${1:Navbar text}</p>
 ]]></content>
 	<tabtrigger>bs3-navbar:text</tabtrigger>
-    <description>bs3-navbar:text</tabtrigger>
+    <description>bs3-navbar:text</description>
 </snippet>

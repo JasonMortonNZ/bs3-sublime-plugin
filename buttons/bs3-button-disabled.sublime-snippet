@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-${3:primary} disabled">${4:button}</${1:button}>
 ]]></content>
 	<tabtrigger>bs3-button:disabled</tabtrigger>
-    <description>bs3-button:disabled</tabtrigger>
+    <description>bs3-button:disabled</description>
 </snippet>

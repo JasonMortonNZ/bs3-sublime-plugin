@@ -3,5 +3,5 @@
 <span class="label label-default">${1:Label}</span>
 ]]></content>
 	<tabtrigger>bs3-label:default</tabtrigger>
-    <description>bs3-label:default</tabtrigger>
+    <description>bs3-label:default</description>
 </snippet>

@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-${3:large} btn-block btn-warning">${4:button}</${1:button}>
 ]]></content>
 	<tabtrigger>bs3-block-button:warning</tabtrigger>
-    <description>bs3-block-button:warning</tabtrigger>
+    <description>bs3-block-button:warning</description>
 </snippet>
