@@ -42,5 +42,6 @@
     <a class="right carousel-control" href="#${1:carousel-id}" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div>
 ]]></content>
-    <tabTrigger>bs3-carousel</tabTrigger>
+    <tabtrigger>bs3-carousel</tabtrigger>
+    <description>bs3-carousel</tabtrigger>
 </snippet>

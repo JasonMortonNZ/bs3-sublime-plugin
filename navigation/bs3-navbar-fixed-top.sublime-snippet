@@ -12,5 +12,6 @@
 	</ul>
 </nav>
 ]]></content>
-	<tabTrigger>bs3-navbar:fixed-top</tabTrigger>
+	<tabtrigger>bs3-navbar:fixed-top</tabtrigger>
+    <description>bs3-navbar:fixed-top</tabtrigger>
 </snippet>

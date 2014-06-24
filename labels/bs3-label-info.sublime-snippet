@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <span class="label label-info">${1:Label}</span>
 ]]></content>
-	<tabTrigger>bs3-label:info</tabTrigger>
+	<tabtrigger>bs3-label:info</tabtrigger>
+    <description>bs3-label:info</tabtrigger>
 </snippet>

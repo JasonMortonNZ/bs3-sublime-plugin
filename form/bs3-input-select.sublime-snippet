@@ -4,5 +4,6 @@
 	<option value="">${2:-- Select One --}</option>
 </select>
 ]]></content>
-	<tabTrigger>bs3-input:select</tabTrigger>
+	<tabtrigger>bs3-input:select</tabtrigger>
+    <description>bs3-input:select</tabtrigger>
 </snippet>

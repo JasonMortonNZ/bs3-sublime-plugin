@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <label for="${1:input-id}" ${2:class="col-sm-2"}>${3}</label>
 ]]></content>
-	<tabTrigger>bs3-form:label</tabTrigger>
+	<tabtrigger>bs3-form:label</tabtrigger>
+    <description>bs3-form:label</tabtrigger>
 </snippet>

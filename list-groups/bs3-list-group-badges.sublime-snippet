@@ -15,5 +15,6 @@
 	</li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-list-group:badges</tabTrigger>
+	<tabtrigger>bs3-list-group:badges</tabtrigger>
+    <description>bs3-list-group:badges</tabtrigger>
 </snippet>

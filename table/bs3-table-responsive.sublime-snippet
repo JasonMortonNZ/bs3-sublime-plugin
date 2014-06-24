@@ -15,5 +15,6 @@
 	</table>
 </div>
 ]]></content>
-	<tabTrigger>bs3-table:responsive</tabTrigger>
+	<tabtrigger>bs3-table:responsive</tabtrigger>
+    <description>bs3-table:responsive</tabtrigger>
 </snippet>

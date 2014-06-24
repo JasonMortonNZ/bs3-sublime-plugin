@@ -4,5 +4,6 @@
 	<a href="${2:#}" class="navbar-link">${3:Links}</a>
 </p>
 ]]></content>
-	<tabTrigger>bs3-navbar:link</tabTrigger>
+	<tabtrigger>bs3-navbar:link</tabtrigger>
+    <description>bs3-navbar:link</tabtrigger>
 </snippet>

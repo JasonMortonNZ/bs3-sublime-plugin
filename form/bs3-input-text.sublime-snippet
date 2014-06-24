@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <input type="text" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"} ${4:required="required"} ${5:pattern="${6}"} ${7:title="${8}"}>
 ]]></content>
-	<tabTrigger>bs3-input:text</tabTrigger>
+	<tabtrigger>bs3-input:text</tabtrigger>
+    <description>bs3-input:text</tabtrigger>
 </snippet>

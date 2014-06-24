@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <span class="badge">${1:Badge}</span>
 ]]></content>
-	<tabTrigger>bs3-badge</tabTrigger>
+	<tabtrigger>bs3-badge</tabtrigger>
+    <description>bs3-badge</tabtrigger>
 </snippet>

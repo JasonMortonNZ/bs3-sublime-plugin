@@ -12,5 +12,6 @@
 	</ul>
 </div>
 ]]></content>
-	<tabTrigger>bs3-navbar:basic</tabTrigger>
+	<tabtrigger>bs3-navbar:basic</tabtrigger>
+    <description>bs3-navbar:basic</tabtrigger>
 </snippet>

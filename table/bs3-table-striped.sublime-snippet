@@ -13,5 +13,6 @@
 	</tbody>
 </table>
 ]]></content>
-	<tabTrigger>bs3-table:striped</tabTrigger>
+	<tabtrigger>bs3-table:striped</tabtrigger>
+    <description>bs3-table:striped</tabtrigger>
 </snippet>

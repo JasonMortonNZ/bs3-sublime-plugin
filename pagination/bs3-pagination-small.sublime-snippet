@@ -10,5 +10,6 @@
 	<li><a href="#">&raquo;</a></li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-pagination:small</tabTrigger>
+	<tabtrigger>bs3-pagination:small</tabtrigger>
+    <description>bs3-pagination:small</tabtrigger>
 </snippet>

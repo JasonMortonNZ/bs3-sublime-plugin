@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <p class="navbar-text">${1:Navbar text}</p>
 ]]></content>
-	<tabTrigger>bs3-navbar:text</tabTrigger>
+	<tabtrigger>bs3-navbar:text</tabtrigger>
+    <description>bs3-navbar:text</tabtrigger>
 </snippet>

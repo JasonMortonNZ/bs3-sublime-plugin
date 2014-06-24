@@ -10,5 +10,6 @@
 	<li class="active">${4:Current}</li>
 </ol>
 ]]></content>
-	<tabTrigger>bs3-breadcrumbs</tabTrigger>
+	<tabtrigger>bs3-breadcrumbs</tabtrigger>
+    <description>bs3-breadcrumbs</tabtrigger>
 </snippet>
