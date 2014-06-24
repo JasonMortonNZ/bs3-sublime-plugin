@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <${1:button} ${2:type="button"} class="btn btn-${3:primary} disabled">${4:button}</${1:button}>
 ]]></content>
-	<tabTrigger>bs3-button:disabled</tabTrigger>
+	<tabtrigger>bs3-button:disabled</tabtrigger>
+    <description>bs3-button:disabled</description>
 </snippet>

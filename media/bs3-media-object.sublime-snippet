@@ -10,5 +10,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-media-object</tabTrigger>
+	<tabtrigger>bs3-media-object</tabtrigger>
+    <description>bs3-media-object</description>
 </snippet>

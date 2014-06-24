@@ -7,5 +7,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:week:h</tabTrigger>
+	<tabtrigger>bs3-input:week:h</tabtrigger>
+    <description>bs3-input:week:h</description>
 </snippet>

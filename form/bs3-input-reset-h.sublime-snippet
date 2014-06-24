@@ -6,5 +6,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:reset:h</tabTrigger>
+	<tabtrigger>bs3-input:reset:h</tabtrigger>
+    <description>bs3-input:reset:h</description>
 </snippet>

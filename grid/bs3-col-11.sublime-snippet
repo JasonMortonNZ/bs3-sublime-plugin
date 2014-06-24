@@ -4,5 +4,6 @@
 	${0}
 </div>
 ]]></content>
-	<tabTrigger>bs3-col:11</tabTrigger>
+	<tabtrigger>bs3-col:11</tabtrigger>
+    <description>bs3-col:11</description>
 </snippet>

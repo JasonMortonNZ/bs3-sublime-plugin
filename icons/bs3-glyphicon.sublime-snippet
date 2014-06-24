@@ -3,7 +3,8 @@
 		<span class="glyphicon ${1:glyphicon class}"></span>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bs3-icon:glyphicon</tabTrigger>
+	<tabtrigger>bs3-icon:glyphicon</tabtrigger>
+    <description>bs3-icon:glyphicon</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

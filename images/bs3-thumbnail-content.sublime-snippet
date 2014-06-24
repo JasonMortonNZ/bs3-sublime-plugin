@@ -16,5 +16,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-thumbnail:content</tabTrigger>
+	<tabtrigger>bs3-thumbnail:content</tabtrigger>
+    <description>bs3-thumbnail:content</description>
 </snippet>

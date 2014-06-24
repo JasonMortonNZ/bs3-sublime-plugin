@@ -28,5 +28,6 @@
 		</table>
 </div>
 ]]></content>
-	<tabTrigger>bs3-panel:table</tabTrigger>
+	<tabtrigger>bs3-panel:table</tabtrigger>
+    <description>bs3-panel:table</description>
 </snippet>

@@ -9,5 +9,6 @@
 		</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-panel:footer</tabTrigger>
+	<tabtrigger>bs3-panel:footer</tabtrigger>
+    <description>bs3-panel:footer</description>
 </snippet>

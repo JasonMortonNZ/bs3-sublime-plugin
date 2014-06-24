@@ -9,5 +9,6 @@
 	</li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-navbar:links</tabTrigger>
+	<tabtrigger>bs3-navbar:links</tabtrigger>
+    <description>bs3-navbar:links</description>
 </snippet>

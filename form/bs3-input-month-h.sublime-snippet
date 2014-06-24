@@ -7,5 +7,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:month:h</tabTrigger>
+	<tabtrigger>bs3-input:month:h</tabtrigger>
+    <description>bs3-input:month:h</description>
 </snippet>

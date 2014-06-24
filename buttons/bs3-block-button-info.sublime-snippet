@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <${1:button} ${2:type="button"} class="btn btn-${3:large} btn-block btn-info">${4:button}</${1:button}>
 ]]></content>
-	<tabTrigger>bs3-block-button:info</tabTrigger>
+	<tabtrigger>bs3-block-button:info</tabtrigger>
+    <description>bs3-block-button:info</description>
 </snippet>

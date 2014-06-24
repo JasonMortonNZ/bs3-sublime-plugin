@@ -4,5 +4,6 @@
 ${1:<script src="//code.jquery.com/jquery.js"></script>}
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 ]]></content>
-	<tabTrigger>bs3-cdn:js</tabTrigger>
+	<tabtrigger>bs3-cdn:js</tabtrigger>
+    <description>bs3-cdn:js</description>
 </snippet>

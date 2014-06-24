@@ -6,5 +6,6 @@
 	<li class="list-group-item">Item 3</li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-list-group</tabTrigger>
+	<tabtrigger>bs3-list-group</tabtrigger>
+    <description>bs3-list-group</description>
 </snippet>

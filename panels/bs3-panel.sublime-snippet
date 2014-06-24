@@ -6,5 +6,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-panel</tabTrigger>
+	<tabtrigger>bs3-panel</tabtrigger>
+    <description>bs3-panel</description>
 </snippet>

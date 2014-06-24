@@ -39,5 +39,6 @@
 	</div><!-- /.navbar-collapse -->
 </nav>
 ]]></content>
-	<tabTrigger>bs3-navbar</tabTrigger>
+	<tabtrigger>bs3-navbar</tabtrigger>
+    <description>bs3-navbar</description>
 </snippet>

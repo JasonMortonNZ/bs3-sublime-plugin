@@ -7,5 +7,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:search:h</tabTrigger>
+	<tabtrigger>bs3-input:search:h</tabtrigger>
+    <description>bs3-input:search:h</description>
 </snippet>
