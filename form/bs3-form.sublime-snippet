@@ -3,14 +3,14 @@
 <form action="${1}" method="${2:POST}" role="form">
 	<legend>${3:Form title}</legend>
 
-	<div class="form-group">
-		<label for="">${4:label}</label>
-		<input type="text" class="form-control" id="" placeholder="Input field">
+	<div class="form-group ${4:has-}">
+		<label for="${5}">${6:label}</label>
+		<input type="text" class="form-control ${7:control-label}" id="${5}" placeholder="Input field">
 	</div>
 
 	${0}
 
-	<button type="submit" class="btn btn-primary">${5:Submit}</button>
+	<button type="submit" class="btn btn-primary">${8:Submit}</button>
 </form>
 ]]></content>
 	<tabTrigger>bs3-form</tabTrigger>

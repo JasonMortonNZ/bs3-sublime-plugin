@@ -33,7 +33,7 @@ Feel free to let me know what else you want added via:
 - [Clearfix](#clearfix)
 - [License](#license)
 
-### CDN
+### CDN (updated to v3.2)
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
@@ -41,13 +41,13 @@ Feel free to let me know what else you want added via:
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
 
-### Templates
+### Templates (updated to v3.2)
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
 
-### Forms
+### Forms (add has-? + "control-label" to labels)
 
 | Component       				 | Snippet code        			  |
 |------------------------------- | :-----------------------------:|
@@ -113,17 +113,19 @@ Feel free to let me know what else you want added via:
 
 ### Breadcrumbs
 
-| Component                      | Snippet code                   |
+| Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Breadcrumbs                    | bs3-breadcrumbs                |
+| Breadcrumbs	 				 | bs3-breadcrumbs				  |
 
-### Carousel
+### Carousel (the original carousel was overwelming so i add a more simplified version for both "p" + "img")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Carousel	      				 | bs3-carousel	       			  |
+| Carousel original snippet		 | bs3-carousel-orig			  |
+| Carousel for Image			 | bs3-carousel-img   			  |
+| Carousel for text 			 | bs3-carousel	       			  |
 
-### Buttons
+### Buttons (omitted (-) so "?-button" > "button?" ,changed "large > "lg")
 
 **Note:** all button snippets below can have any of the following options append to the end of the snippet *.
 - :danger
@@ -136,44 +138,47 @@ Feel free to let me know what else you want added via:
 
 **An example:**
 - bs3-button:success
-- bs3-large-button:disabled
-- bs3-block-button:warning
+- bs3-buttonlg:disabled
+- bs3-buttonblock:warning
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
 | Button		 				 | bs3-button					  |  *		|
-| Block Button	 				 | bs3-block-button				  |  *		|
-| Mini Button		 			 | bs3-xs-button				  |	 *		|
-| Small Button		 			 | bs3-sm-button				  |	 *		|
-| Large Button		 			 | bs3-lg-button				  |	 *		|
+| Block Button	 				 | bs3-buttonblock				  |  *		|
+| Mini Button		 			 | bs3-buttonxs				  	  |	 *		|
+| Small Button		 			 | bs3-buttonsm				  	  |	 *		|
+| Large Button		 			 | bs3-buttonlg				  	  |	 *		|
 
-### Grid
+### Grid (omitted the col(:) + add colxs,sm,md,lg & offset-? + container-fluid)
 
 **Note:** The bs3-col snippet can be used both on its own or with the addition of a colon followed by the number of columns required: **E.g.**
 
 - bs3-col
-- bs3-col:6
-- bs3-col:12
+- bs3-col6
+- bs3-col12
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
-| Column		 				 | bs3-col						  | :1-12	|
+| Column		 				 | bs3-col						  | 1-12	|
 | Row			 				 | bs3-row						  |  		|
 | Container		 				 | bs3-container				  |			|
+| Container		 				 | bs3-bs3-container-fluid		  |			|
 
-### Icons
+### Icons (removed the extra icon folder + add "fa-?" + its now just (:g))
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
-| Glyphicon		                 | bs3-icon:glyphicon             |
+| Glyphicon		                 | bs3-icon:g                     |
 | Icon (Font Awesome)		     | bs3-icon                       |
 
-### Images
+### Images (add imageshapes + changed "image" > "img" , "thumbnail" > "thumb")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Thumbnail	 					 | bs3-thumbnail 				  |
-| Thumbnail with content		 | bs3-thumbnail:content		  |
+| Thumbnail	 					 | bs3-thumb 					  |
+| Thumbnail with content		 | bs3-thumb:content			  |
+| image							 | bs3-img						  |
+| image-shapes					 | bs3-imgshape					  |
 
 ### Labels
 
@@ -211,11 +216,11 @@ Feel free to let me know what else you want added via:
 | Navbar Responsive				 | bs3-navbar:responsive		  |
 | Navbar Static-Top				 | bs3-navbar:static-top		  |
 
-### Jumbotron
+### Jumbotron (its now only jumbo)
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Jumbotron (ex Hero Unit)		 | bs3-jumbotron 				  |
+| Jumbotron (ex Hero Unit)		 | bs3-jumbo     				  |
 
 ### Panels
 
@@ -235,11 +240,11 @@ Feel free to let me know what else you want added via:
 | List group (linked list)       | bs3-list-group:linked          |
 | List group (with content)      | bs3-list-group:content         |
 
-### Media Objects
+### Media Objects (its now only media)
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Media Object                   | bs3-media-object               |
+| Media Object                   | bs3-media                      |
 
 ### Clearfix
 
