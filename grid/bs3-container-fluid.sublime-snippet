@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="container-fluid">
-	${0}
-</div>
-]]></content>
-	<tabTrigger>bs3-containerf</tabTrigger>
-</snippet>

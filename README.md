@@ -149,7 +149,7 @@ Feel free to let me know what else you want added via:
 | Small Button		 			 | bs3-buttonsm				  	  |	 *		|
 | Large Button		 			 | bs3-buttonlg				  	  |	 *		|
 
-### Grid (omitted the col(:) + add colxs,sm,md,lg & offset-? + container-fluid)
+### Grid (omitted the col(:) + add colxs,sm,md,lg & offset-?)
 
 **Note:** The bs3-col snippet can be used both on its own or with the addition of a colon followed by the number of columns required: **E.g.**
 
@@ -162,7 +162,6 @@ Feel free to let me know what else you want added via:
 | Column		 				 | bs3-col						  | 1-12	|
 | Row			 				 | bs3-row						  |  		|
 | Container		 				 | bs3-container				  |			|
-| Container		 				 | bs3-container-fluid			  |			|
 
 ### Icons (removed the extra icon folder + add "fa-?" + its now just (:g))
 
