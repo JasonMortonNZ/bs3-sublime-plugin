@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<${1:button} ${2:type="button"} class="btn btn-lg btn-default">${3:button}</${1:button}>
+]]></content>
+	<tabTrigger>bs3-buttonlg:default</tabTrigger>
+</snippet>

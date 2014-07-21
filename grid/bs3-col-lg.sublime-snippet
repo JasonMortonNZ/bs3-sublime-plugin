@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="${${5:col-lg-${1}}">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>bs3-collg</tabTrigger>
+</snippet>

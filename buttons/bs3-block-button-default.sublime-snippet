@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<${1:button} ${2:type="button"} class="btn btn-${3:large} btn-block btn-default">${4:button}</${1:button}>
-]]></content>
-	<tabTrigger>bs3-block-button:default</tabTrigger>
-</snippet>
