@@ -47,7 +47,7 @@ Feel free to let me know what else you want added via:
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
 
-### Forms (add has-? + "control-label" to labels)
+### Forms (add has-?)
 
 | Component       				 | Snippet code        			  |
 |------------------------------- | :-----------------------------:|
@@ -162,7 +162,7 @@ Feel free to let me know what else you want added via:
 | Column		 				 | bs3-col						  | 1-12	|
 | Row			 				 | bs3-row						  |  		|
 | Container		 				 | bs3-container				  |			|
-| Container		 				 | bs3-bs3-container-fluid		  |			|
+| Container		 				 | bs3-container-fluid			  |			|
 
 ### Icons (removed the extra icon folder + add "fa-?" + its now just (:g))
 
@@ -180,7 +180,7 @@ Feel free to let me know what else you want added via:
 | image							 | bs3-img						  |
 | image-shapes					 | bs3-imgshape					  |
 
-### Labels
+### Labels (add "control-label")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
