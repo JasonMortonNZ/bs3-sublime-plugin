@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <span class="label">${1:Label}</span>
 ]]></content>
-	<tabTrigger>bs3-label</tabTrigger>
+	<tabTrigger>label</tabTrigger>
 </snippet>

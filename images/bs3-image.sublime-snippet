@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <img src="${1:#}" ${2:class="img-responsive"} alt="${3:Image}">
 ]]></content>
-	<tabTrigger>bs3-image</tabTrigger>
+	<tabTrigger>img</tabTrigger>
 </snippet>

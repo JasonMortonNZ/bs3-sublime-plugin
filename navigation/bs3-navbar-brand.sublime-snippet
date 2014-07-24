@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <a class="navbar-brand" href="${1:/}">${2:Title}</a>
 ]]></content>
-	<tabTrigger>bs3-navbar:brand</tabTrigger>
+	<tabTrigger>navbar:brand</tabTrigger>
 </snippet>

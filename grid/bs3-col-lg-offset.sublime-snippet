@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="${${1:col-lg-offset-${1}}">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>col-lg-off</tabTrigger>
+</snippet>

@@ -1,5 +1,6 @@
-Bootstrap 3 - Sublime Plugin
+Bootstrap 3.2 - Sublime Plugin
 ==================
+
 
 A sublime plugin complete with Bootstrap 3 snippets
 
@@ -7,6 +8,36 @@ Feel free to let me know what else you want added via:
 
 - Twitter [@JasonMortonNZ](https://twitter.com/jasonmortonnz)
 - [Issues](https://github.com/JasonMortonNZ/bs3-sublime-plugin/issues)
+
+
+Changes:
+===========
+- omitted all of (bs3-?) ,except for (CDN ,Templates) "writing bs3- everytime i want to make a div was an agony"
+- Updated CDN references to Bootstrap v3.2
+- changes are written next to each corespondent section.
+- included a fix for @BootStrap awkward "container-fluid + row" (padding,margin) problem
+just add this to your css(
+
+<!-- for container-fluid & columns -->
+   .no-padding {
+   	padding-right: 0 !important;
+   	padding-left: 0 !important;
+   }
+
+<!-- for row -->
+   .no-margin {
+   	margin-right: 0 !important;
+   	margin-left: 0 !important;
+   }
+
+<!-- for invidual column control -->
+	.no-margin-right {
+	   	margin-right: 0 !important;
+	}
+	.no-margin-left {
+		margin-left: 0 !important;
+	}
+)
 
 
 ## What's included - contents
@@ -47,83 +78,85 @@ Feel free to let me know what else you want added via:
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
 
-### Forms
+### Forms (add has-?)
 
 | Component       				 | Snippet code        			  |
 |------------------------------- | :-----------------------------:|
-| Form            				 | bs3-form            			  |
-| Inline Form     				 | bs3-form:inline     			  |
-| Horizontal Form 				 | bs3-form:horizontal 			  |
+| Form            				 | form            			      |
+| Inline Form     				 | form:inline     			      |
+| Horizontal Form 				 | form:horizontal 			      |
 
 ### Tables
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Table                    		 | bs3-table                      |
-| Bordered Table           		 | bs3-table:bordered             |
-| Condensed Table          		 | bs3-table:condensed            |
-| Hover Table              		 | bs3-table:hover                |
-| Striped Table            		 | bs3-table:striped              |
+| Table                    		 | table                      	  |
+| Bordered Table           		 | table:bordered             	  |
+| Condensed Table          		 | table:condensed            	  |
+| Hover Table              		 | table:hover                	  |
+| Striped Table            		 | table:striped              	  |
 
 ### Input Fields (Form fields)
 
 **Note:** you can add " :h " to the end of any input field snippet to make it compatible with Bootstrap 3 horizontal forms. **E.g.**
-- bs3-input:text:h
-- bs3-input:hidden:h
+- input:text:h
+- input:hidden:h
 
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
-| Label		 					 | bs3-input:label   			  |    		|
-| Text Input               		 | bs3-input:text 				  | :h 		|
-| Email Input 					 | bs3-input:email   			  | :h 		|
-| Password Input				 | bs3-input:password  			  | :h 		|
-| Hidden Input					 | bs3-input:hidden  			  | :h 		|
-| Url Input						 | bs3-input:url 	 			  | :h 		|
-| Color Input 					 | bs3-input:color   			  | :h 		|
-| Number Input 					 | bs3-input:number   			  | :h 		|
-| Range Input 					 | bs3-input:range   			  | :h 		|
-| Date Input 					 | bs3-input:date   			  | :h 		|
-| Week Input 					 | bs3-input:week   			  | :h 		|
-| Month Input 					 | bs3-input:month   			  | :h 		|
-| Time Input 					 | bs3-input:time   			  | :h 		|
-| Tel Input 					 | bs3-input:tel   	 			  | :h 		|
-| Search Input 					 | bs3-input:search   			  | :h 		|
-| Reset Input 					 | bs3-input:reset   			  | :h 		|
-| Submit Input 					 | bs3-input:submit   			  | :h 		|
-| Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
-| Radio Box Input 				 | bs3-input:radio  			  | :h 		|
-| Select Box 	 				 | bs3-select		  			  | :h 		|
+| Label		 					 | input:label   			  	  |    		|
+| Text Input               		 | input:text 				  	  | :h 		|
+| Email Input 					 | input:email   			  	  | :h 		|
+| Password Input				 | input:password  			  	  | :h 		|
+| Hidden Input					 | input:hidden  			  	  | :h 		|
+| Url Input						 | input:url 	 			  	  | :h 		|
+| Color Input 					 | input:color   			  	  | :h 		|
+| Number Input 					 | input:number   			  	  | :h 		|
+| Range Input 					 | input:range   			  	  | :h 		|
+| Date Input 					 | input:date   			  	  | :h 		|
+| Week Input 					 | input:week   			  	  | :h 		|
+| Month Input 					 | input:month   			  	  | :h 		|
+| Time Input 					 | input:time   			  	  | :h 		|
+| Tel Input 					 | input:tel   	 			  	  | :h 		|
+| Search Input 					 | input:search   			  	  | :h 		|
+| Reset Input 					 | input:reset   			  	  | :h 		|
+| Submit Input 					 | input:submit   			  	  | :h 		|
+| Checkbox Input 				 | input:checkbox  			  	  | :h 		|
+| Radio Box Input 				 | input:radio  			  	  | :h 		|
+| Select Box 	 				 | select		  			  	  | :h 		|
 
 ### Alerts
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Alert Box (Default)			 | bs3-alert 					  |
-| Danger Alert Box				 | bs3-alert:danger 			  |
-| Info Alert Box				 | bs3-alert:info				  |
-| Success Alert Box              | bs3-alert:success              |
-| Warning Alert Box				 | bs3-alert:warning			  |
+| Alert Box (Default)			 | alert 					  	  |
+| Danger Alert Box				 | alert:danger 			  	  |
+| Info Alert Box				 | alert:info				  	  |
+| Success Alert Box              | alert:success              	  |
+| Warning Alert Box				 | alert:warning			  	  |
 
 ### Badges
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Badge (Default) 				 | bs3-badge 					  |
+| Badge (Default) 				 | badge 			  			  |
 
 ### Breadcrumbs
 
-| Component                      | Snippet code                   |
+| Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Breadcrumbs                    | bs3-breadcrumbs                |
+| Breadcrumbs	 				 | breadcrumbs					  |
 
-### Carousel
+### Carousel (the original was overwelming so i add a more simplified version for both "p" + "img")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Carousel	      				 | bs3-carousel	       			  |
+| Carousel original snippet		 | carousel-orig			  	  |
+| Carousel for Image			 | carousel-img   			  	  |
+| Carousel for text 			 | carousel	       			  	  |
 
-### Buttons
+### Buttons (changed "?-button" > "btn-?" ,changed "large > "lg")
 
 **Note:** all button snippets below can have any of the following options append to the end of the snippet *.
 - :danger
@@ -135,118 +168,128 @@ Feel free to let me know what else you want added via:
 - :warning
 
 **An example:**
-- bs3-button:success
-- bs3-large-button:disabled
-- bs3-block-button:warning
+- btn:success
+- btn-lg:disabled
+- btn-block:warning
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
-| Button		 				 | bs3-button					  |  *		|
-| Block Button	 				 | bs3-block-button				  |  *		|
-| Mini Button		 			 | bs3-xs-button				  |	 *		|
-| Small Button		 			 | bs3-sm-button				  |	 *		|
-| Large Button		 			 | bs3-lg-button				  |	 *		|
+| Button		 				 | btn						 	  |  *		|
+| Block Button	 				 | btn-block				 	  |  *		|
+| Mini Button		 			 | btn-xs				  	 	  |	 *		|
+| Small Button		 			 | btn-sm				  	 	  |	 *		|
+| Large Button		 			 | btn-lg				  	 	  |	 *		|
+| Button toolbar		 		 | btn-toolbar				  	  |	 *		|
+| Button group		 			 | btn-group				  	  |	 *		|
 
-### Grid
+### Grid (omitted the col(:) + add col-xs,sm,md,lg & offset-? + container-fluid)
 
 **Note:** The bs3-col snippet can be used both on its own or with the addition of a colon followed by the number of columns required: **E.g.**
 
-- bs3-col
-- bs3-col:6
-- bs3-col:12
+- col
+- col6
+- col12
 
 | Component                		 | Snippet code                   | Options |
 |------------------------------- | :----------------------------: | :-----:	|
-| Column		 				 | bs3-col						  | :1-12	|
-| Row			 				 | bs3-row						  |  		|
-| Container		 				 | bs3-container				  |			|
+| Column		 				 | col						  	  | 1-12	|
+| Large Column		 			 | col-lg						  |			|
+| large Column offset		 	 | col-lg-off					  |			|
+| Row			 				 | row							  |  		|
+| Container		 				 | container					  |			|
+| Container-fluid 				 | container-fluid				  |			|
 
-### Icons
+### Icons (removed the extra icon folder + add "fa-?" + now its just (icon:g / icon:f))
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
-| Glyphicon		                 | bs3-icon:glyphicon             |
-| Icon (Font Awesome)		     | bs3-icon                       |
+| Glyphicon		                 | icon:g                         |
+| Icon (Font Awesome)		     | icon:f                         |
 
-### Images
-
-| Component                		 | Snippet code                   |
-|------------------------------- | :----------------------------: |
-| Thumbnail	 					 | bs3-thumbnail 				  |
-| Thumbnail with content		 | bs3-thumbnail:content		  |
-
-### Labels
+### Images (add imageshapes + changed "image" > "img" , "thumbnail" > "thumb")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Label		 					 | bs3-label 	 				  |
-| Danger Label					 | bs3-label:danger				  |
-| Info Label					 | bs3-label:info 				  |
-| Success Label					 | bs3-label:success			  |
-| Warning Label					 | bs3-label:warning			  |
+| Thumbnail	 					 | thumb 					  	  |
+| Thumbnail with content		 | thumb:content			  	  |
+| image							 | img						  	  |
+| image-shapes					 | imgshape					  	  |
 
-### Pagination
+### Labels (add "control-label")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Pager		 					 | bs3-pager	 				  |
-| Aligned Pager             	 | bs3-pager:aligned 			  |
-| Pagination					 | bs3-pagination				  |
-| Pagination:small				 | bs3-pagination:small			  |
-| Pagination:large				 | bs3-pagination:large			  |
+| Label		 					 | label 	 				  	  |
+| Danger Label					 | label:danger				  	  |
+| Info Label					 | label:info 				  	  |
+| Success Label					 | label:success			  	  |
+| Warning Label					 | label:warning			  	  |
+
+### Pagination (changed "large" to "lg")
+
+| Component                		 | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Pager		 					 | pager	 				      |
+| Aligned Pager             	 | pager:aligned 			      |
+| Pagination					 | pagination				      |
+| Pagination:small				 | pagination:small			      |
+| Pagination:large				 | pagination:large			      |
 
 ### Navigation
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Navbar (basic navbar)			 | bs3-navbar	 				  |
-| Navbar Brand Element			 | bs3-navbar:brand				  |
-| Navbar Button					 | bs3-navbar:button			  |
-| Navbar Form 					 | bs3-navbar:form 				  |
-| Navbar Link 					 | bs3-navbar:link 				  |
-| Navbar Text 					 | bs3-navbar:text 				  |
-| Navbar Fixed-Botton			 | bs3-navbar:fixed-bottom		  |
-| Navbar Fixed-Top				 | bs3-navbar:fixed-top			  |
-| Navbar Inverse				 | bs3-navbar:inverse			  |
-| Navbar Responsive				 | bs3-navbar:responsive		  |
-| Navbar Static-Top				 | bs3-navbar:static-top		  |
+| Navbar (basic navbar)			 | navbar	 				      |
+| Navbar Brand Element			 | navbar:brand				      |
+| Navbar Button					 | navbar:button			      |
+| Navbar Form 					 | navbar:form 				      |
+| Navbar Link 					 | navbar:link 				      |
+| Navbar Text 					 | navbar:text 				      |
+| Navbar Fixed-Botton			 | navbar:fixed-bottom		      |
+| Navbar Fixed-Top				 | navbar:fixed-top			      |
+| Navbar Inverse				 | navbar:inverse			      |
+| Navbar Responsive				 | navbar:responsive		      |
+| Navbar Static-Top				 | navbar:static-top		      |
 
-### Jumbotron
+### Jumbotron (now its just "jumbo")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Jumbotron (ex Hero Unit)		 | bs3-jumbotron 				  |
+| Jumbotron (ex Hero Unit)		 | jumbo     				  |
 
 ### Panels
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Panel                          | bs3-panel                      |
-| Panel (contextual)             | bs3-panel:{warning,success,info,danger,primary}                  |
-| Panel (with heading)           | bs3-panel:heading              |
-| Panel (with footer)            | bs3-panel:footer               |
+| Panel                          | panel                          |
+| Panel (contextual)             | panel:{warning,success,info,danger,primary}                  |
+| Panel (with heading)           | panel:heading                  |
+| Panel (with footer)            | panel:footer                   |
 
 ### List-groups
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| List group                     | bs3-list-group                 |
-| List group (with badges)       | bs3-list-group:badges          |
-| List group (linked list)       | bs3-list-group:linked          |
-| List group (with content)      | bs3-list-group:content         |
+| List group                     | list-group                 	  |
+| List group (with badges)       | list-group:badges          	  |
+| List group (linked list)       | list-group:linked          	  |
+| List group (with content)      | list-group:content         	  |
 
-### Media Objects
+### Media Objects (its now only media)
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Media Object                   | bs3-media-object               |
+| Media Object                   | media                          |
 
 ### Clearfix
 
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
-| Clearfix                       | bs3-clearfix                   |
+| Clearfix                       | clearfix                       |
 
 ### License
 
 Bootstrap 3 - Sublime Plugin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+

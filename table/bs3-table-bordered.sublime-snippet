@@ -13,5 +13,5 @@
 	</tbody>
 </table>
 ]]></content>
-	<tabTrigger>bs3-table:bordered</tabTrigger>
+	<tabTrigger>table:bordered</tabTrigger>
 </snippet>

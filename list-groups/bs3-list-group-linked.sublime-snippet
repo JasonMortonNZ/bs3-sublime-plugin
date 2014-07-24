@@ -6,5 +6,5 @@
 	<a href="#" class="list-group-item">Item 3</a>
 </div>
 ]]></content>
-	<tabTrigger>bs3-list-group:linked</tabTrigger>
+	<tabTrigger>list-group:linked</tabTrigger>
 </snippet>

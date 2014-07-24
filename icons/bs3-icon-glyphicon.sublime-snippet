@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<span class="glyphicon glyphicon-${1:icon}"></span>
+]]></content>
+	<tabTrigger>icon:g</tabTrigger>
+</snippet>

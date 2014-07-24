@@ -7,5 +7,5 @@
 	</label>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:radio</tabTrigger>
+	<tabTrigger>input:radio</tabTrigger>
 </snippet>

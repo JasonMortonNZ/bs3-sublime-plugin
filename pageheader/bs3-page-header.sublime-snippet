@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="page-header">
+  <h1>${1:title}<small>${2:subtext}</small></h1>
+</div>
+]]></content>
+	 <tabTrigger>page-header</tabTrigger>
+</snippet>

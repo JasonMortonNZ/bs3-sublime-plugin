@@ -14,5 +14,5 @@
 		</div>
 </form>
 ]]></content>
-	<tabTrigger>bs3-form:horizontal</tabTrigger>
+	<tabTrigger>form:horizontal</tabTrigger>
 </snippet>

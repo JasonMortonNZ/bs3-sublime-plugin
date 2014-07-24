@@ -5,5 +5,5 @@
     <strong>${1:Title!}</strong> ${2:Alert body ...}
 </div>
 ]]></content>
-    <tabTrigger>bs3-alert:warning</tabTrigger>
+    <tabTrigger>alert:warning</tabTrigger>
 </snippet>

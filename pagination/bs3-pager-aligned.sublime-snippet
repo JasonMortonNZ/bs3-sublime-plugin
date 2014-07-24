@@ -5,5 +5,5 @@
 	<li class="next"><a href="#">Newer &rarr;</a></li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-pager:aligned</tabTrigger>
+	<tabTrigger>pager:aligned</tabTrigger>
 </snippet>

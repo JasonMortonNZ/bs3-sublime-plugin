@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <input type="reset" value="${1:Reset}" class="btn btn-default">
 ]]></content>
-	<tabTrigger>bs3-input:reset</tabTrigger>
+	<tabTrigger>input:reset</tabTrigger>
 </snippet>

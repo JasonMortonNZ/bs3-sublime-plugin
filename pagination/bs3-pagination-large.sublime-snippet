@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<ul class="pagination pagination-large">
+<ul class="pagination pagination-lg">
 	<li><a href="#">&laquo;</a></li>
 	<li><a href="#">1</a></li>
 	<li><a href="#">2</a></li>
@@ -10,5 +10,5 @@
 	<li><a href="#">&raquo;</a></li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-pagination:large</tabTrigger>
+	<tabTrigger>pagination:large</tabTrigger>
 </snippet>

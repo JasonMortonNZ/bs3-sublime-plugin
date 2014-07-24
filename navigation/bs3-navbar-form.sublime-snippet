@@ -5,5 +5,5 @@
 	<button type="submit" class="btn btn-${2:default}">${3:Submit}</button>
 </form>
 ]]></content>
-	<tabTrigger>bs3-navbar:form</tabTrigger>
+	<tabTrigger>navbar:form</tabTrigger>
 </snippet>

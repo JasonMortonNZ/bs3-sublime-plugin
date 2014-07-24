@@ -7,5 +7,5 @@
 	</label>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:checkbox</tabTrigger>
+	<tabTrigger>input:checkbox</tabTrigger>
 </snippet>
