@@ -15,30 +15,29 @@ Changes:
 - omitted all of (bs3-?) ,except for (CDN ,Templates) "writing bs3- everytime i want to make a div was an agony"
 - Updated CDN references to Bootstrap v3.2
 - changes are written next to each corespondent section.
-- included a fix for @BootStrap awkward "container-fluid + row" (padding,margin) problem , just add this classes to your css
+- included a fix for @BootStrap awkward "container-fluid + row" (padding,margin) problem ,just add this classes to your css
 
 <pre>
 <!-- for container-fluid & columns -->
 .no-padding {
-   padding-right: 0 !important;
-   padding-left: 0 !important;
+	padding-right: 0 !important;
+	padding-left: 0 !important;
 }
 
 <!-- for row -->
 .no-margin {
-   margin-right: 0 !important;
-   margin-left: 0 !important;
+	margin-right: 0 !important;
+	margin-left: 0 !important;
 }
 
 <!-- for invidual column control -->
 .no-margin-right {
-   margin-right: 0 !important;
+   	margin-right: 0 !important;
 }
 .no-margin-left {
-   margin-left: 0 !important;
+	margin-left: 0 !important;
 }
-	</pre>
-
+</pre>
 
 ## What's included - contents
 - [CDN](#cdn)
