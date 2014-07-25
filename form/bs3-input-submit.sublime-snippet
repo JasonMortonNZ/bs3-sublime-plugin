@@ -2,5 +2,6 @@
 	<content><![CDATA[
 <button type="submit" class="btn btn-primary">${5:Submit}</button>
 ]]></content>
-	<tabTrigger>bs3-input:submit</tabTrigger>
+	<tabTrigger>input:submit</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

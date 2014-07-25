@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<${1:button} ${2:type="button"} class="btn btn-sm btn-${3:default} disabled">${4:button}</${1:button}>
+]]></content>
+	<tabTrigger>btn-sm:disabled</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>

@@ -1,0 +1,45 @@
+<snippet>
+	<content><![CDATA[
+	<div class="container${1:-fluid}">
+		<div class="carousel slide" ${2:data-interval="false"} data-ride="carousel" id="${3:some}">
+
+			<ol class="carousel-indicators">
+				<li data-target="#${3:some}" data-slide-to="0" class="active"></li>
+				<li data-target="#${3:some}" data-slide-to="1"></li>
+				<li data-target="#${3:some}" data-slide-to="2"></li>
+			</ol>
+
+			<!-- images -->
+			<div class="carousel-inner">
+
+				<div class="item active">
+				  <img src="${6:...}" alt="...">
+				  <div class="carousel-caption"></div>
+				</div>
+
+				<div class="item">
+				  <img src="${7:...}" alt="...">
+				  <div class="carousel-caption"></div>
+				</div>
+
+				<div class="item">
+				  <img src="${8:...}" alt="...">
+				  <div class="carousel-caption"></div>
+				</div>
+
+			</div>
+
+			<!-- Controls -->
+			<a href="#${3:some}" class="left carousel-control" role="button" data-slide="prev">
+				<span class="${4:glyphicon} ${4:glyphicon}-${5:chevron}-left"></span>
+			</a>
+			<a href="#${3:some}" class="right carousel-control" role="button" data-slide="next">
+				<span class="${4:glyphicon} ${4:glyphicon}-${5:chevron}-right"></span>
+			</a>
+
+		</div>
+	</div>
+]]></content>
+	<tabTrigger>carouselimg</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>

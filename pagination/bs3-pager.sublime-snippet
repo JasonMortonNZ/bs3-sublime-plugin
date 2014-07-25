@@ -5,5 +5,6 @@
 	<li><a href="#">Next</a></li>
 </ul>
 ]]></content>
-	<tabTrigger>bs3-pager</tabTrigger>
+	<tabTrigger>pager</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

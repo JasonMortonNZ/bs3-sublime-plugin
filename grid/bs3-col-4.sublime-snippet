@@ -4,5 +4,6 @@
 	${0}
 </div>
 ]]></content>
-	<tabTrigger>bs3-col:4</tabTrigger>
+	<tabTrigger>col4</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

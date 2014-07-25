@@ -4,5 +4,6 @@
 	<option value="">${0}</option>
 </select>
 ]]></content>
-	<tabTrigger>bs3-select</tabTrigger>
+	<tabTrigger>select</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

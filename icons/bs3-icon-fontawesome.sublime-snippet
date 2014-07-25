@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<i class="fa fa-${1:name}${2:-${3:shape}${4:-${5:o}${6:-${7:direction}}}} ${8:fa-}"></i>
+]]></content>
+	<tabTrigger>icon:f</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>

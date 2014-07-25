@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="col-md-${1}">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>col-md</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>

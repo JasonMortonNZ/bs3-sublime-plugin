@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div class="row">
+<div class="row ${1:no-margin}">
 	${0}
 </div>
 ]]></content>
-	<tabTrigger>bs3-row</tabTrigger>
+	<tabTrigger>row</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

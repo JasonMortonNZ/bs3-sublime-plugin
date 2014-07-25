@@ -7,5 +7,6 @@
 	</a>
 </div>
 ]]></content>
-	<tabTrigger>bs3-list-group:content</tabTrigger>
+	<tabTrigger>list-group:content</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -10,5 +10,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-jumbotron</tabTrigger>
+	<tabTrigger>jumbo</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

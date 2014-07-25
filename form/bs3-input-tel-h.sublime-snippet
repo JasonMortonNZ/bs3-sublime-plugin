@@ -7,5 +7,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-input:tel:h</tabTrigger>
+	<tabTrigger>input:tel:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

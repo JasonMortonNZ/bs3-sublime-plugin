@@ -12,5 +12,6 @@
 	<button type="submit" class="btn btn-primary">${4:Submit}</button>
 </form>
 ]]></content>
-	<tabTrigger>bs3-form:inline</tabTrigger>
+	<tabTrigger>form:inline</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

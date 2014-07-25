@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<span class="glyphicon glyphicon-${1:icon}"></span>
-]]></content>
-	<tabTrigger>bs3-icon:glyphicon</tabTrigger>
-</snippet>

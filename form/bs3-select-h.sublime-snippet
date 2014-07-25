@@ -9,5 +9,6 @@
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-select:h</tabTrigger>
+	<tabTrigger>select:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

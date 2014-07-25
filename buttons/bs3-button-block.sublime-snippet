@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<${1:button} ${2:type="button"} class="btn btn-${3:lg} btn-block btn-default">${4:button}</${1:button}>
+]]></content>
+	<tabTrigger>btn-block</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>

@@ -4,5 +4,6 @@
 
 </div>
 ]]></content>
-	<tabTrigger>bs3-clearfix</tabTrigger>
+	<tabTrigger>clearfix</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

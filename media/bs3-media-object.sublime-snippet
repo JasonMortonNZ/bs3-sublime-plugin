@@ -1,14 +1,15 @@
 <snippet>
 	<content><![CDATA[
 <div class="media">
-	<a class="pull-left" href="${1:#}">
-		<img class="media-object" src="${2:#}" alt="${3:Image}">
+	<a class="pull-${1:left}" href="${2:#}">
+		<img class="media-object" src="${3:#}" alt="${4:Image}">
 	</a>
 	<div class="media-body">
-		<h4 class="media-heading">${4:Media heading}</h4>
-		<p>${5:Text goes here...}</p>
+		<h4 class="media-heading">${5:Media heading}</h4>
+		<p>${6:Text goes here...}</p>
 	</div>
 </div>
 ]]></content>
-	<tabTrigger>bs3-media-object</tabTrigger>
+	<tabTrigger>media</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

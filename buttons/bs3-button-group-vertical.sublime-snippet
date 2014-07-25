@@ -6,5 +6,6 @@
 	<${1:button} ${2:type="button"} class="btn btn-default">Bottom</${1:button}>
 </div>
 ]]></content>
-	<tabTrigger>bs3-group:vertical</tabTrigger>
+	<tabTrigger>btn-group:vertical</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

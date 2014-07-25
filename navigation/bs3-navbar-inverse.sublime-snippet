@@ -12,5 +12,6 @@
 	</ul>
 </nav>
 ]]></content>
-	<tabTrigger>bs3-navbar:inverse</tabTrigger>
+	<tabTrigger>navbar:inverse</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

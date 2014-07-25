@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="container-fluid ${1:no-padding}">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>container-fluid</tabTrigger>
+	  <scope>text.html</scope>
+</snippet>
