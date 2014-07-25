@@ -6,4 +6,5 @@
 </div>
 ]]></content>
 	<tabTrigger>alert:success</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

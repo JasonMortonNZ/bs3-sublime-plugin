@@ -3,4 +3,5 @@
 <input type="reset" value="${1:Reset}" class="btn btn-default">
 ]]></content>
 	<tabTrigger>input:reset</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -11,4 +11,5 @@
 </div>
 ]]></content>
 	<tabTrigger>media</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

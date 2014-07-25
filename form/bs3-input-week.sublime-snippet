@@ -3,4 +3,5 @@
 <input type="week" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"} ${4:required="required"} ${5:title="${6}"}>
 ]]></content>
 	<tabTrigger>input:week</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

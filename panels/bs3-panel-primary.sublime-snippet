@@ -10,4 +10,5 @@
 </div>
 ]]></content>
 	<tabTrigger>panel:primary</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

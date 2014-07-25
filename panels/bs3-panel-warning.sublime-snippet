@@ -10,4 +10,5 @@
 </div>
 ]]></content>
 	<tabTrigger>panel:warning</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

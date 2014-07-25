@@ -40,4 +40,5 @@
 </nav>
 ]]></content>
 	<tabTrigger>navbar</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

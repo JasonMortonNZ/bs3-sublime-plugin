@@ -3,4 +3,5 @@
 <p class="navbar-text">${1:Navbar text}</p>
 ]]></content>
 	<tabTrigger>navbar:text</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>input:search:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

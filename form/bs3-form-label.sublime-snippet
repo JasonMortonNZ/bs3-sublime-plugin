@@ -3,4 +3,5 @@
 <label for="${1:input-id}" ${2:class="col-sm-2"}>${3}</label>
 ]]></content>
 	<tabTrigger>form:label</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

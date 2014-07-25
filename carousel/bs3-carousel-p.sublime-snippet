@@ -43,5 +43,6 @@
 		</div>
 	</div>
 ]]></content>
-	<tabTrigger>carousel</tabTrigger>
+	<tabTrigger>carousel-p</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

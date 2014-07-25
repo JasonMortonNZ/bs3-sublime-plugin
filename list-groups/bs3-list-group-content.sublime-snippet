@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>list-group:content</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

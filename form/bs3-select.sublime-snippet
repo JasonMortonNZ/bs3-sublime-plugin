@@ -5,4 +5,5 @@
 </select>
 ]]></content>
 	<tabTrigger>select</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

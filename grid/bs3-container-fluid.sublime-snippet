@@ -5,4 +5,5 @@
 </div>
 ]]></content>
 	<tabTrigger>container-fluid</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

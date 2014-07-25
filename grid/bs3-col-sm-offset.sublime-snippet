@@ -5,4 +5,5 @@
 </div>
 ]]></content>
 	<tabTrigger>col-sm-off</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -5,4 +5,5 @@
 </div>
 ]]></content>
 	<tabTrigger>col8</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

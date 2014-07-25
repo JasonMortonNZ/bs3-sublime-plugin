@@ -13,4 +13,5 @@
 </nav>
 ]]></content>
 	<tabTrigger>navbar:fixed-top</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

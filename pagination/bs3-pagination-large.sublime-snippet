@@ -11,4 +11,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>pagination:large</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

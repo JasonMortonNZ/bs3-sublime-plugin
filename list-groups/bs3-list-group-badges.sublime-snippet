@@ -16,4 +16,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>list-group:badges</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

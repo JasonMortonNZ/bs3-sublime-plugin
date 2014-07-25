@@ -6,4 +6,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>pager</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -5,4 +5,5 @@
 </div>
 ]]></content>
 	 <tabTrigger>page-header</tabTrigger>
+	   <scope>text.html</scope>
 </snippet>

@@ -16,4 +16,5 @@
 </div>
 ]]></content>
 	<tabTrigger>table:responsive</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

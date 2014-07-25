@@ -3,4 +3,5 @@
 <span class="label label-danger">${1:Label}</span>
 ]]></content>
 	<tabTrigger>label:danger</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

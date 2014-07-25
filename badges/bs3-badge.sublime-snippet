@@ -3,4 +3,5 @@
 <span class="badge">${1:Badge}</span>
 ]]></content>
 	<tabTrigger>badge</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

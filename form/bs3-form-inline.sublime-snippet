@@ -13,4 +13,5 @@
 </form>
 ]]></content>
 	<tabTrigger>form:inline</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>input:radio</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

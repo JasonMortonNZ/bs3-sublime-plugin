@@ -15,4 +15,5 @@
 </form>
 ]]></content>
 	<tabTrigger>form:horizontal</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

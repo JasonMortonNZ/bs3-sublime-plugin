@@ -13,4 +13,5 @@
 </nav>
 ]]></content>
 	<tabTrigger>navbar:inverse</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

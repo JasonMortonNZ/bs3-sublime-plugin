@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>thumb</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

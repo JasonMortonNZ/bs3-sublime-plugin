@@ -43,4 +43,5 @@
 </div>
 ]]></content>
     <tabTrigger>carousel-orig</tabTrigger>
+      <scope>text.html</scope>
 </snippet>

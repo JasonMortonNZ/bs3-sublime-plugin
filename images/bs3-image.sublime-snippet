@@ -3,4 +3,5 @@
 <img src="${1:#}" ${2:class="img-responsive"} alt="${3:Image}">
 ]]></content>
 	<tabTrigger>img</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

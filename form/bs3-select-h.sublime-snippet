@@ -10,4 +10,5 @@
 </div>
 ]]></content>
 	<tabTrigger>select:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

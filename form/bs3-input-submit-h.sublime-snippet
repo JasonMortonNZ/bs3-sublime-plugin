@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>input:submit:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -3,4 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-xs btn-${3:default} disabled">${4:button}</${1:button}>
 ]]></content>
 	<tabTrigger>btn-xs:disabled</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

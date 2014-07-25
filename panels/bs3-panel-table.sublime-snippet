@@ -29,4 +29,5 @@
 </div>
 ]]></content>
 	<tabTrigger>panel:table</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -6,4 +6,5 @@
 </div>
 ]]></content>
 	<tabTrigger>alert:danger</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -17,4 +17,5 @@
 </div>
 ]]></content>
 	<tabTrigger>thumb:content</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

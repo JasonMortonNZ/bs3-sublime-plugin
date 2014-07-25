@@ -3,4 +3,5 @@
 <a class="navbar-brand" href="${1:/}">${2:Title}</a>
 ]]></content>
 	<tabTrigger>navbar:brand</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

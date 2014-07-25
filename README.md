@@ -12,9 +12,10 @@ Feel free to let me know what else you want added via:
 
 Changes:
 ===========
-- omitted all of (bs3-?) ,except for (CDN ,Templates) "writing bs3- everytime i want to make a div was an agony"
-- Updated CDN references to Bootstrap v3.2
+- omitted all of (bs3-?) ,except for (CDN ,Templates) "writing bs3- everytime i wanted to make a div was an agony"
+- Updated CDN references to Bootstrap v3.2.
 - changes are written next to each corespondent section.
+- add a html scope for all the snippets so they only work in ".html" files ,some will still work in ".text"
 - included a fix for @BootStrap awkward "container-fluid + row" (padding,margin) problem ,just add this classes to your css
 
 <pre>
@@ -77,7 +78,7 @@ Changes:
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
 
-### Forms (add has-?)
+### Forms (add "has-?" + "control-label")
 
 | Component       				 | Snippet code        			  |
 |------------------------------- | :-----------------------------:|
@@ -147,15 +148,15 @@ Changes:
 |------------------------------- | :----------------------------: |
 | Breadcrumbs	 				 | breadcrumbs					  |
 
-### Carousel (the original was overwelming so i add a more simplified version for both "p" + "img")
+### Carousel (the original was overwhelming so i added a more simplified version for both "p" + "img")
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Carousel original snippet		 | carousel-orig			  	  |
 | Carousel for Image			 | carousel-img   			  	  |
-| Carousel for text 			 | carousel	       			  	  |
+| Carousel for text 			 | carousel-p      			  	  |
 
-### Buttons (changed "?-button" > "btn-?" ,changed "large > "lg")
+### Buttons (changed "?-button" > "btn-?" ,changed "large > "lg" + added btn-toolbar, group)
 
 **Note:** all button snippets below can have any of the following options append to the end of the snippet *.
 - :danger
@@ -181,9 +182,9 @@ Changes:
 | Button toolbar		 		 | btn-toolbar				  	  |	 *		|
 | Button group		 			 | btn-group				  	  |	 *		|
 
-### Grid (omitted the col(:) + add col-xs,sm,md,lg & offset-? + container-fluid)
+### Grid (omitted the col(:) + add col-xs, sm, md, lg & offset-? + container-fluid)
 
-**Note:** The bs3-col snippet can be used both on its own or with the addition of a colon followed by the number of columns required: **E.g.**
+**Note:** The "col" snippet can be used both on its own or with the addition of a number of columns required: **E.g.**
 
 - col
 - col6
@@ -214,7 +215,7 @@ Changes:
 | image							 | img						  	  |
 | image-shapes					 | imgshape					  	  |
 
-### Labels (add "control-label")
+### Labels
 
 | Component                		 | Snippet code                   |
 |------------------------------- | :----------------------------: |

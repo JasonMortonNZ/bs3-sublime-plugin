@@ -7,4 +7,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>list-group</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

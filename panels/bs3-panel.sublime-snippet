@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>panel</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

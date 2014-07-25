@@ -6,4 +6,5 @@
 </form>
 ]]></content>
 	<tabTrigger>navbar:form</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

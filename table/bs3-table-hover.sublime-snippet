@@ -14,4 +14,5 @@
 </table>
 ]]></content>
 	<tabTrigger>table:hover</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

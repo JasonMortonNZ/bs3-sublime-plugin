@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>list-group:linked</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

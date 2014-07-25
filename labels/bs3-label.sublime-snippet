@@ -3,4 +3,5 @@
 <span class="label">${1:Label}</span>
 ]]></content>
 	<tabTrigger>label</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

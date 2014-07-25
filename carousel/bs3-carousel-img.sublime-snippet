@@ -41,4 +41,5 @@
 	</div>
 ]]></content>
 	<tabTrigger>carouselimg</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

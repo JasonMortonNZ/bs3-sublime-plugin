@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>input:checkbox</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

@@ -3,4 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-default">${3:button}</${1:button}>
 ]]></content>
 	<tabTrigger>btn:default</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

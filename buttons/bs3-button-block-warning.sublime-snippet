@@ -3,4 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-${3:lg} btn-block btn-warning">${4:button}</${1:button}>
 ]]></content>
 	<tabTrigger>btn-block:warning</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

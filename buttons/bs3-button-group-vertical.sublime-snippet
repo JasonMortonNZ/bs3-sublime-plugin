@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>btn-group:vertical</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>

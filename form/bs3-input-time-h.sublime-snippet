@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>input:time:h</tabTrigger>
+	  <scope>text.html</scope>
 </snippet>
