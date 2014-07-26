@@ -1,0 +1,18 @@
+============================================================
+Bootstrap 3 Snippets - Has been updated !! -> v1.1.5
+============================================================
+            Bootstrap v3.2 has been released !!
+============================================================
+Follow me on Twitter: @JasonMortonNZ
+------------------------------------------------------------
+
+New Features
+------------------------------------------------------------
+- Added bs3-well snippet to insert wells (large and small)
+- Updated CDN references to Bootstrap v3.2
+- OUT NOW     - A PHPStorm plugin with all the same snippets
+- COMING SOON - A Dedicated website for Bootstrap 3 Snippets
+              - Complete with easy browse docs and videos.
+------------------------------------------------------------
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin

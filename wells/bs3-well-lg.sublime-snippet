@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="well well-lg">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>bs3-well:lg</tabTrigger>
+</snippet>

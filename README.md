@@ -10,6 +10,7 @@ Feel free to let me know what else you want added via:
 
 
 ## What's included - contents
+- [Installation](#installation)
 - [CDN](#cdn)
 - [Templates](#templates)
 - [Forms](#forms)
@@ -31,7 +32,22 @@ Feel free to let me know what else you want added via:
 - [Media Objects](#media-objects)
 - [Icons](#icons)
 - [Clearfix](#clearfix)
+- [Wells](#wells)
 - [License](#license)
+
+
+### Installation
+
+There are 3 methods for installing this plugin.
+
+1. Search for "Bootstrap 3 Snippets" via the "Package Control: Install Packages" menu.
+**Note:** If you don't have Sublime Package Control installed, you can find out how to install it here [https://sublime.wbond.net/installation](https://sublime.wbond.net/installation)
+
+2. Clone the repository into your Sublime Text 2/3 packages directory.
+`git clone https://github.com/JasonMortonNZ/bs3-sublime-plugin.git
+
+3. Download the .zip file and unzip it into your Sublime Text 2/3 packages directory.
+**Note:** You can find your Sublime Text 2/3 packages directory by going to Preferences > Browse Packages.
 
 ### CDN
 
@@ -246,6 +262,14 @@ Feel free to let me know what else you want added via:
 | Component                      | Snippet code                   |
 |------------------------------- | :----------------------------: |
 | Clearfix                       | bs3-clearfix                   |
+
+### Wells
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Well                           | bs3-well                       |
+| Well (small)                   | bs3-well:sm                    |
+| Well (large)                   | bs3-well:lg                    |
 
 ### License
 
