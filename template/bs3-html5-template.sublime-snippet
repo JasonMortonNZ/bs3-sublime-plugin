@@ -9,7 +9,7 @@
 		<title>${2:Title Page}</title>
 
 		<!-- Bootstrap CSS -->
-		<link href="${3://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css}" rel="stylesheet">
+		<link href="${3://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css}" rel="stylesheet">
 
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -24,7 +24,7 @@
 		<!-- jQuery -->
 		<script src="${4://code.jquery.com/jquery.js}"></script>
 		<!-- Bootstrap JavaScript -->
-		<script src="${5://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js}"></script>
+		<script src="${5://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js}"></script>
 	</body>
 </html>
 ]]></content>
