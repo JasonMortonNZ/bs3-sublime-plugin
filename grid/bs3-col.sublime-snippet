@@ -5,4 +5,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-col</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

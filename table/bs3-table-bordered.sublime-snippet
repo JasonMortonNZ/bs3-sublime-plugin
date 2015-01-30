@@ -14,4 +14,5 @@
 </table>
 ]]></content>
 	<tabTrigger>bs3-table:bordered</tabTrigger>
+	<scope>text.html</scope>
 </snippet>
