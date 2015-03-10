@@ -110,6 +110,7 @@ There are 3 methods for installing this plugin.
 | Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
 | Radio Box Input 				 | bs3-input:radio  			  | :h 		|
 | Select Box 	 				 | bs3-select		  			  | :h 		|
+| Text Area	 	 				 | bs3-textarea		  			  | :h 		|
 
 ### Alerts
 
