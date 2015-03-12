@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group">
+	<input type="text" class="form-control" id="exampleInputAmount" placeholder="Search">
+	<span class="input-group-btn">
+		<button type="button" class="btn btn-default">Go!</button>
+	</span>
+</div>
+]]></content>
+	<tabTrigger>bs3-input-group:text:btn</tabTrigger>
+</snippet>

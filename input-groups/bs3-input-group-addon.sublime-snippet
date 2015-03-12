@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group-addon">${1:\$}</div>
+]]></content>
+	<tabTrigger>bs3-input-group-addon</tabTrigger>
+</snippet>
