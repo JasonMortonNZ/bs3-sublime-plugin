@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="btn-group">
+	<a class="btn btn-default" href="#" role="button">Left</a>
+	<a class="btn btn-default" href="#" role="button">Middle</a>
+	<a class="btn btn-default" href="#" role="button">Right</a>
+</div>
+]]></content>
+	<tabTrigger>bs3-link-group</tabTrigger>
+</snippet>
