@@ -14,5 +14,5 @@
 </form>
 ]]></content>
 	<tabTrigger>bs3-form</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

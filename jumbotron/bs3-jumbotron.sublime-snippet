@@ -11,5 +11,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-jumbotron</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

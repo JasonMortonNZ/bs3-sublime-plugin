@@ -3,5 +3,5 @@
 <input type="hidden" name="${1}" id="input${1/(\w+)/\u\1/g}" class="form-control" ${2:value="${3}"}>
 ]]></content>
 	<tabTrigger>bs3-input:hidden</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

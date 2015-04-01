@@ -3,5 +3,5 @@
 <i class="fa fa-${1:name}${2:-${3:shape}${4:-${5:o}${6:-${7:direction}}}}"></i>
 ]]></content>
 	<tabTrigger>bs3-icon</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

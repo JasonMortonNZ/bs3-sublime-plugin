@@ -5,5 +5,5 @@
 </select>
 ]]></content>
 	<tabTrigger>bs3-select</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

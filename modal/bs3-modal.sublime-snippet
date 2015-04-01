@@ -20,5 +20,5 @@ ${1:<a class="btn btn-primary" data-toggle="modal" href='#${2:modal-id}'>Trigger
 </div><!-- /.modal -->
 ]]></content>
 	<tabTrigger>bs3-modal</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

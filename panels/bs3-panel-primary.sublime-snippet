@@ -10,5 +10,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-panel:primary</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

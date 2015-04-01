@@ -6,5 +6,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-alert</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

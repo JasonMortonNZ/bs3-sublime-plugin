@@ -6,5 +6,5 @@ ${1:<script src="//code.jquery.com/jquery.js"></script>}
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 ]]></content>
 	<tabTrigger>bs3-cdn</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

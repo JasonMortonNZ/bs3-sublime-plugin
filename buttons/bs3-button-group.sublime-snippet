@@ -7,5 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-group</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

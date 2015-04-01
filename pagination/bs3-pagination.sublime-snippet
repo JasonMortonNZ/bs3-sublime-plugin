@@ -11,5 +11,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>bs3-pagination</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

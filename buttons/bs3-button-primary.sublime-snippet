@@ -3,5 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-primary">${3:button}</${1:button}>
 ]]></content>
 	<tabTrigger>bs3-button:primary</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

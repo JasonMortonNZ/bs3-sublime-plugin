@@ -15,5 +15,5 @@
 </form>
 ]]></content>
 	<tabTrigger>bs3-form:horizontal</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>
