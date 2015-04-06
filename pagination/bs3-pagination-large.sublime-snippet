@@ -11,4 +11,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>bs3-pagination:large</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

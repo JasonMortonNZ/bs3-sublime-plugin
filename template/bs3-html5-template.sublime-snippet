@@ -29,4 +29,5 @@
 </html>
 ]]></content>
 	<tabTrigger>bs3-template:html5</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

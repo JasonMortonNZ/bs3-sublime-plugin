@@ -4,4 +4,5 @@
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
 ]]></content>
 	<tabTrigger>bs3-cdn:css</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

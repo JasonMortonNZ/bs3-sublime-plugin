@@ -43,4 +43,5 @@
 </div>
 ]]></content>
     <tabTrigger>bs3-carousel</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

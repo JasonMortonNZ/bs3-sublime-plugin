@@ -3,4 +3,5 @@
 <${1:button} ${2:type="button"} class="btn btn-lg btn-success">${3:button}</${1:button}>
 ]]></content>
 	<tabTrigger>bs3-lg-button:success</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

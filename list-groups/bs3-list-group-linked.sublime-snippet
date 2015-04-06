@@ -7,4 +7,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-list-group:linked</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

@@ -5,4 +5,5 @@
 </p>
 ]]></content>
 	<tabTrigger>bs3-navbar:link</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

@@ -11,4 +11,5 @@
 </ol>
 ]]></content>
 	<tabTrigger>bs3-breadcrumbs</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>

@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-input:number:h</tabTrigger>
+	<scope>text.html, source.js.jsx</scope>
 </snippet>
