@@ -5,7 +5,8 @@
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	 <tabTrigger>bs3-page-header</tabTrigger> 
+	 <tabTrigger>bs3-page-header</tabTrigger>
+	<scope>text.html</scope>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

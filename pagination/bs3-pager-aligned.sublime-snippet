@@ -6,4 +6,5 @@
 </ul>
 ]]></content>
 	<tabTrigger>bs3-pager:aligned</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

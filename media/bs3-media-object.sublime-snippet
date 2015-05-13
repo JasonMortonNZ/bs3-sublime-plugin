@@ -11,4 +11,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-media-object</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

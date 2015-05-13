@@ -40,4 +40,5 @@
 </nav>
 ]]></content>
 	<tabTrigger>bs3-navbar:responsive</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

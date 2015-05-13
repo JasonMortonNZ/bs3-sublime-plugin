@@ -10,4 +10,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-panel:heading</tabTrigger>
+	<scope>text.html</scope>
 </snippet>
