@@ -13,4 +13,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-navbar:basic</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

@@ -8,4 +8,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-input:email:h</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

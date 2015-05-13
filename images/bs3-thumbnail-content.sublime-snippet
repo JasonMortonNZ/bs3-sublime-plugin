@@ -17,4 +17,5 @@
 </div>
 ]]></content>
 	<tabTrigger>bs3-thumbnail:content</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

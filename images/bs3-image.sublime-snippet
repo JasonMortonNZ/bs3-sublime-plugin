@@ -3,4 +3,5 @@
 <img src="${1:#}" ${2:class="img-responsive"} alt="${3:Image}">
 ]]></content>
 	<tabTrigger>bs3-image</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

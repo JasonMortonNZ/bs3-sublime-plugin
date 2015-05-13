@@ -13,4 +13,5 @@
 </nav>
 ]]></content>
 	<tabTrigger>bs3-navbar:fixed-bottom</tabTrigger>
+	<scope>text.html</scope>
 </snippet>

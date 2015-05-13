@@ -13,4 +13,5 @@
 </form>
 ]]></content>
 	<tabTrigger>bs3-form:inline</tabTrigger>
+	<scope>text.html</scope>
 </snippet>
