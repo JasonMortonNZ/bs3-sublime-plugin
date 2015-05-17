@@ -49,6 +49,15 @@ There are 3 methods for installing this plugin.
 3. Download the .zip file and unzip it into your Sublime Text 2/3 packages directory.
 **Note:** You can find your Sublime Text 2/3 packages directory by going to Preferences > Browse Packages.
 
+
+### Usage
+
+Start typing `<bs3` in html files and the autocomplete window opens. It matches fuzzily. So you can type `<bs3radio` to find the `bs3-input:radio` snippet.
+
+Be sure you have enabled "<" in your Preferences.sublime-settings:
+
+`"auto_complete_triggers": [ {"selector": "text.html", "characters": "<"} ],`
+
 ### CDN
 
 | Component                      | Snippet code                   |
