@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-info" href="#" role="button">button</a>
+]]></content>
+	<tabTrigger>bs3-link-button:info</tabTrigger>
+</snippet>

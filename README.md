@@ -35,6 +35,7 @@ Feel free to let me know what else you want added via:
 - [Clearfix](#clearfix)
 - [Wells](#wells)
 - [Tabs](#tabs)
+- [Input Groups](#input-groups)
 - [License](#license)
 
 
@@ -286,6 +287,15 @@ There are 3 methods for installing this plugin.
 |------------------------------- | :----------------------------: |
 | Tabs pane                      | bs3-tabs				          |
 
+### Input-groups
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Input group                    | bs3-input-group                |
+| Input group(addon & text-field)| bs3-input-group:addon:text     |
+| Input group (addon)            | bs3-input-group-addon          |
+| Input group (button)           | bs3-input-group-btn            |
+| Input group (text-field & btn) | bs3-input-group:text:btn       |
 
 ### License
 

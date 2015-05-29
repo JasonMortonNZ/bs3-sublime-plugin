@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-xs btn-success" href="#" role="button">button</a>
+]]></content>
+	<tabTrigger>bs3-xs-link-button:success</tabTrigger>
+</snippet>
