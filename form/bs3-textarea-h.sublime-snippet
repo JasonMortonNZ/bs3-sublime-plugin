@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	<label for="textarea${1/(\w+)/\u\1/g}" class="col-${2:sm-2} control-label">${1/(\w+)/\u\1/g}:</label>
+	<div class="col-${3:sm-10}">
+		<textarea name="${1}" id="textarea${1/(\w+)/\u\1/g}" class="form-control" rows="${4:3}" ${5:required="required"}>${6}</textarea>
+	</div>
+</div>
+]]></content>
+	<tabTrigger>bs3-textarea:h</tabTrigger>
+</snippet>

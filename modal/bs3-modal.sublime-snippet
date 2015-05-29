@@ -15,9 +15,9 @@ ${1:<a class="btn btn-primary" data-toggle="modal" href='#${2:modal-id}'>Trigger
 				<button type="button" class="btn btn-default" data-dismiss="modal">${4:Close}</button>
 				<button type="button" class="btn btn-primary">${5:Save changes}</button>
 			</div>
-		</div><!-- /.modal-content -->
-	</div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+		</div>
+	</div>
+</div>
 ]]></content>
 	<tabTrigger>bs3-modal</tabTrigger>
 </snippet>

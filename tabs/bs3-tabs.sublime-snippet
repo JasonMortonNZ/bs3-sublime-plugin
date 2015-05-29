@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+<div role="tabpanel">
+    <!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+            <a href="#${1:home}" aria-controls="${1:home}" role="tab" data-toggle="tab">${1:home}</a>
+        </li>
+        <li role="presentation">
+            <a href="#${2:tab}" aria-controls="${2:tab}" role="tab" data-toggle="tab">${2:tab}</a>
+        </li>
+    </ul>
+
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="${1:home}">...</div>
+        <div role="tabpanel" class="tab-pane" id="${2:tab}">...</div>
+    </div>
+</div>
+]]></content>
+  <tabTrigger>bs3-tabs</tabTrigger>
+</snippet>
+

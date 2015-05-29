@@ -12,6 +12,7 @@ Feel free to let me know what else you want added via:
 ## What's included - contents
 - [Installation](#installation)
 - [CDN](#cdn)
+- [Local](#local)
 - [Templates](#templates)
 - [Forms](#forms)
 - [Tables](#tables)
@@ -33,6 +34,7 @@ Feel free to let me know what else you want added via:
 - [Icons](#icons)
 - [Clearfix](#clearfix)
 - [Wells](#wells)
+- [Tabs](#tabs)
 - [License](#license)
 
 
@@ -56,6 +58,12 @@ There are 3 methods for installing this plugin.
 | CDN link (both CSS & JS)       | bs3-cdn                        |
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
+
+### Local
+
+| Component                      | Snippet code					  |
+|------------------------------- | :-----------------------------:|
+| Link to local bootstrap files  | bs3-local					  |
 
 ### Templates
 
@@ -110,6 +118,7 @@ There are 3 methods for installing this plugin.
 | Checkbox Input 				 | bs3-input:checkbox  			  | :h 		|
 | Radio Box Input 				 | bs3-input:radio  			  | :h 		|
 | Select Box 	 				 | bs3-select		  			  | :h 		|
+| Textarea  	 				 | bs3-textarea		  			  | :h 		|
 
 ### Alerts
 
@@ -270,6 +279,13 @@ There are 3 methods for installing this plugin.
 | Well                           | bs3-well                       |
 | Well (small)                   | bs3-well:sm                    |
 | Well (large)                   | bs3-well:lg                    |
+
+### Tabs
+
+| Component                      | Snippet code                   |
+|------------------------------- | :----------------------------: |
+| Tabs pane                      | bs3-tabs				          |
+
 
 ### License
 

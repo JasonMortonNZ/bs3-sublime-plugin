@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!-- Local bootstrap CSS & JS -->
+<link rel="stylesheet" media="screen" href="${1:bootstrap.min.css}">
+${2:<script src="jquery.js"></script>}
+<script src="${3:bootstrap.min.js}"></script>
+]]></content>
+	<tabTrigger>bs3-local</tabTrigger>
+</snippet>

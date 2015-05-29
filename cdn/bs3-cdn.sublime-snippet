@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <!-- Latest compiled and minified CSS & JS -->
-<link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-${1:<script src="//code.jquery.com/jquery.js"></script>}
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<link rel="stylesheet" media="screen" href="//netdna.bootstrapcdn.com/bootstrap/${1:3.3.4}/css/bootstrap.min.css">
+${2:<script src="//code.jquery.com/jquery.js"></script>}
+<script src="//netdna.bootstrapcdn.com/bootstrap/${1:3.3.4}/js/bootstrap.min.js"></script>
 ]]></content>
 	<tabTrigger>bs3-cdn</tabTrigger>
 </snippet>
