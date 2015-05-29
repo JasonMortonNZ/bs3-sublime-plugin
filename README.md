@@ -209,8 +209,8 @@ There are 3 methods for installing this plugin.
 | Pager		 					 | bs3-pager	 				  |
 | Aligned Pager             	 | bs3-pager:aligned 			  |
 | Pagination					 | bs3-pagination				  |
-| Pagination:small				 | bs3-pagination:small			  |
-| Pagination:large				 | bs3-pagination:large			  |
+| Pagination:small				 | bs3-pagination:sm			  |
+| Pagination:large				 | bs3-pagination:lg			  |
 
 ### Navigation
 
