@@ -15,6 +15,7 @@ New Features
 	* bs4-local - reference your local copy of bootstrap (not CDN) 
 	* bs3-input-group - snippets for adding input groups
 - Updated CDN references to Bootstrap v3.3.4
+- Updated the pagination snippets
 - OUT NOW     - A PHPStorm plugin with all the same snippets
 - COMING SOON - A Dedicated website for Bootstrap 3 Snippets
               - Complete with easy browse docs and videos.
