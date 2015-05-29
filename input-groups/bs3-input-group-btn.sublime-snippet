@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="input-group-btn">
+	<button type="button" class="btn btn-default">Go!</button>
+</span>
+]]></content>
+	<tabTrigger>bs3-input-group-btn</tabTrigger>
+</snippet>

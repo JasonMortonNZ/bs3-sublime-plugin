@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="btn btn-sm btn-default disabled" href="#" role="button">button</a>
+]]></content>
+	<tabTrigger>bs3-sm-link-button:disabled</tabTrigger>
+</snippet>
