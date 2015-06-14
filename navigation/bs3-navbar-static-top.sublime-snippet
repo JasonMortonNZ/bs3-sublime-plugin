@@ -1,15 +1,17 @@
 <snippet>
 	<content><![CDATA[
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
-	<a class="navbar-brand" href="${1:#}">${2:Title}</a>
-	<ul class="nav navbar-nav">
-		<li class="active">
-			<a href="#">${3:Home}</a>
-		</li>
-		<li>
-			<a href="#">${4:Link}</a>
-		</li>
-	</ul>
+	<div class="container">
+		<a class="navbar-brand" href="${1:#}">${2:Title}</a>
+		<ul class="nav navbar-nav">
+			<li class="active">
+				<a href="#">${3:Home}</a>
+			</li>
+			<li>
+				<a href="#">${4:Link}</a>
+			</li>
+		</ul>
+	</div>
 </nav>
 ]]></content>
 	<tabTrigger>bs3-navbar:static-top</tabTrigger>
