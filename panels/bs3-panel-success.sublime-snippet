@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 <div class="panel panel-${1:success}">
-	  <div class="panel-heading">
-			<h3 class="panel-title">Panel title</h3>
-	  </div>
-	  <div class="panel-body">
-			${2:Panel content}
-	  </div>
+	<div class="panel-heading">
+		<h3 class="panel-title">Panel title</h3>
+	</div>
+	<div class="panel-body">
+		${2:Panel content}
+	</div>
 </div>
 ]]></content>
 	<tabTrigger>bs3-panel:success</tabTrigger>
