@@ -1,5 +1,5 @@
-Bootstrap 3 - Sublime Plugin
-==================
+Bootstrap 3 - Plugin Sublime Text 3
+===================================
 
 A sublime plugin complete with Bootstrap 3 snippets
 
