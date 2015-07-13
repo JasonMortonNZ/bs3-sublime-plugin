@@ -88,6 +88,9 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Text Pos(center)               | bs3-txt-c                      |
 | Text Pos(left)                 | bs3-txt-l                      |
 | Text Pos(right)                | bs3-txt-r                      |
+| Mark                           | bs3-txt-mark					  |
+| Lead	                         | bs3-txt-lead					  |
+| Deleted						 | bs3-txt-deleted				  |	 		  
 
 ### Forms
 
