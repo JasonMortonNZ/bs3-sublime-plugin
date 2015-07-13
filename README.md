@@ -65,7 +65,7 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
-| CDN link (both CSS & JS)       | bs3-cdn                        |
+| CDN link (both CSS & JS)       | bs3-cdn-all                    |
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
 
@@ -80,6 +80,14 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
+
+### Text
+
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| Text Pos(center)               | bs3-txt-c                      |
+| Text Pos(left)                 | bs3-txt-l                      |
+| Text Pos(right)                | bs3-txt:r                      |
 
 ### Forms
 
