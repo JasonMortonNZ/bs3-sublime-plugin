@@ -87,7 +87,7 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 |------------------------------- | :-----------------------------:|
 | Text Pos(center)               | bs3-txt-c                      |
 | Text Pos(left)                 | bs3-txt-l                      |
-| Text Pos(right)                | bs3-txt:r                      |
+| Text Pos(right)                | bs3-txt-r                      |
 
 ### Forms
 
