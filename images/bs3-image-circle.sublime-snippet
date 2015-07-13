@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<img src="${1:#}" ${2:class="img-circle"} alt="${3:Image}">
+]]></content>
+	<tabTrigger>bs3-image-circle</tabTrigger>
+</snippe>
