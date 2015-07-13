@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<div class="text-left">${1:Title}</div>
-]]></content>
-	<tabTrigger>bs3-txt-l</tabTrigger>
-</snippet>
