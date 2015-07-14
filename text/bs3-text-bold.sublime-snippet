@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <bold>${1:This line of text will render as underlined.}</bold>
 ]]></content>
-	<tabTrigger>bs3-txt-bold</tabTrigger>
+	<tabTrigger>bs3-text-bold</tabTrigger>
 </snippet>

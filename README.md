@@ -85,12 +85,17 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
-| Text Pos(center)               | bs3-txt-c                      |
-| Text Pos(left)                 | bs3-txt-l                      |
-| Text Pos(right)                | bs3-txt-r                      |
-| Mark                           | bs3-txt-mark					  |
-| Lead	                         | bs3-txt-lead					  |
-| Deleted						 | bs3-txt-deleted				  |	 
+| Center  aligned                | bs3-text-center                |
+| Left    aligned                | bs3-text-left                  |
+| Right   aligned                | bs3-text-right                 |
+| Justify aligned                | bs3-text-justify               |
+| Nowrap  aligned                | bs3-text-nowrap                | 
+| Lowercased  text				 | bs3-text-lowercase             |
+| Uppercased  text               | bs3-text-uppercase             |
+| Capitalized text               | bs3-text-capitalize            |	
+| Mark                           | bs3-text-mark				  |
+| Lead	                         | bs3-text-lead			      |
+| Deleted						 | bs3-text-deleted				  |	 
 | Strikethrough					 | bs3-txt-strikethrough          |
 | Inserted						 | bs3-text-inserted			  |	 
 | Underline						 | bs3-text-underline			  |

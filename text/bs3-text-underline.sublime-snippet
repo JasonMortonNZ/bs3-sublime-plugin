@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <u>${1:This line of text will render as underlined.}</u>
 ]]></content>
-	<tabTrigger>bs3-txt-underline</tabTrigger>
+	<tabTrigger>bs3-text-underline</tabTrigger>
 </snippet>

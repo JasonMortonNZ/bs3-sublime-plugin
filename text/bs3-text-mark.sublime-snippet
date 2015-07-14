@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <p>You can use the mark tag to <mark>${1:highlight}</mark>text</p>
 ]]></content>
-	<tabTrigger>bs3-txt-mark</tabTrigger>
+	<tabTrigger>bs3-text-mark</tabTrigger>
 </snippet>

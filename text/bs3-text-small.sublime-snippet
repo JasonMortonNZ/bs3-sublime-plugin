@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <small>${1:This line of text is meant to be treated as fine print.}</small>
 ]]></content>
-	<tabTrigger>bs3-txt-small</tabTrigger>
+	<tabTrigger>bs3-text-small</tabTrigger>
 </snippet>

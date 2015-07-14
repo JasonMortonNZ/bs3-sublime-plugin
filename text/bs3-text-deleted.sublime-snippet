@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <del>${1:This line of text is meant to be treated as deleted text.}</del>
 ]]></content>
-	<tabTrigger>bs3-txt-del</tabTrigger>
+	<tabTrigger>bs3-text-del</tabTrigger>
 </snippet>

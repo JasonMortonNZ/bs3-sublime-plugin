@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-justify">${1:Justified text.}</p>
+]]></content>
+	<tabTrigger>bs3-text-justify</tabTrigger>
+</snippet>

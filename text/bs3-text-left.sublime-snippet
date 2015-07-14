@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="text-left">${1:Title}</div>
+<p class="text-left">${1:Left aligned text.}</p>
 ]]></content>
-	<tabTrigger>bs3-txt-l</tabTrigger>
+	<tabTrigger>bs3-text-left</tabTrigger>
 </snippet>

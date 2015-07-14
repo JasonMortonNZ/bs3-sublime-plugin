@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-uppercase">${1:Uppercased text.}</p>
+]]></content>
+	<tabTrigger>bs3-text-uppercase</tabTrigger>
+</snippet>

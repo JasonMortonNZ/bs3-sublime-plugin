@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <s>${1:This line of text is meant to be treated as no longer accurate..}</s>
 ]]></content>
-	<tabTrigger>bs3-txt-strikethrough</tabTrigger>
+	<tabTrigger>bs3-text-strikethrough</tabTrigger>
 </snippet>

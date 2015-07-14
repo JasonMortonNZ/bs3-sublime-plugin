@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-capitalize">${1:Capitalized text.}</p>
+]]></content>
+	<tabTrigger>bs3-text-capitalize</tabTrigger>
+</snippet>

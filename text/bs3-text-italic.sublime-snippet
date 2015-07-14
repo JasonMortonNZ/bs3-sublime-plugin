@@ -2,5 +2,5 @@
 	<content><![CDATA[
 <em>${1:rendered as italicized text.}</em>
 ]]></content>
-	<tabTrigger>bs3-txt-italic</tabTrigger>
+	<tabTrigger>bs3-text-italic</tabTrigger>
 </snippet>
