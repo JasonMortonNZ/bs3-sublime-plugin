@@ -92,7 +92,10 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Lead	                         | bs3-txt-lead					  |
 | Deleted						 | bs3-txt-deleted				  |	 
 | Strikethrough					 | bs3-txt-strikethrough          |
-| Inserted						 | bs3-text-inserted			  |	 			  
+| Inserted						 | bs3-text-inserted			  |	 
+| Underline						 | bs3-text-underline			  |
+| Bold							 | bs3-text-bold				  |
+| Small							 | bs3-text-small				  |		 					  
 
 ### Forms
 
