@@ -91,7 +91,8 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Mark                           | bs3-txt-mark					  |
 | Lead	                         | bs3-txt-lead					  |
 | Deleted						 | bs3-txt-deleted				  |	 
-| Strikethrough					 | bs3-txt-strikethrough          | 			  
+| Strikethrough					 | bs3-txt-strikethrough          |
+| Inserted						 | bs3-text-inserted			  |	 			  
 
 ### Forms
 
