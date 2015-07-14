@@ -16,6 +16,7 @@ Feel free to let me know what else you want added via:
 - [Templates](#templates)
 - [Forms](#forms)
 - [Tables](#tables)
+- [Text](#text)
 - [Input](#input-fields-form-fields)
 - [Alerts](#alerts)
 - [Badges](#badges)
