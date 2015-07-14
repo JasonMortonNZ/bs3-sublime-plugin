@@ -95,7 +95,8 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Inserted						 | bs3-text-inserted			  |	 
 | Underline						 | bs3-text-underline			  |
 | Bold							 | bs3-text-bold				  |
-| Small							 | bs3-text-small				  |		 					  
+| Small							 | bs3-text-small				  |
+| Italic						 | bs3-text-italic				  |		 					  
 
 ### Forms
 
