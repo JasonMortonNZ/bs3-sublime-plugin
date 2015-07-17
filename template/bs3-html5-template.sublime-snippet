@@ -26,6 +26,8 @@
 		<script src="${4://code.jquery.com/jquery.js}"></script>
 		<!-- Bootstrap JavaScript -->
 		<script src="${5://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js}"></script>
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<script src="${7://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js}"></script>
 	</body>
 </html>
 ]]></content>
