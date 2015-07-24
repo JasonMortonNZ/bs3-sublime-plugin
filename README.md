@@ -1,5 +1,5 @@
-Bootstrap 3 - Sublime Plugin
-==================
+Bootstrap 3 - Plugin Sublime Text 3
+===================================
 
 A sublime plugin complete with Bootstrap 3 snippets
 
@@ -16,6 +16,7 @@ Feel free to let me know what else you want added via:
 - [Templates](#templates)
 - [Forms](#forms)
 - [Tables](#tables)
+- [Text](#text)
 - [Input](#input-fields-form-fields)
 - [Alerts](#alerts)
 - [Badges](#badges)
@@ -65,7 +66,7 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
-| CDN link (both CSS & JS)       | bs3-cdn                        |
+| CDN link (both CSS & JS)       | bs3-cdn-all                    |
 | CDN link (CSS only)            | bs3-cdn:css                    |
 | CDN link (JS only)             | bs3-cdn:js                     |
 
@@ -80,6 +81,28 @@ Be sure you have enabled "<" in your Preferences.sublime-settings:
 | Component                      | Snippet code                   |
 |------------------------------- | :-----------------------------:|
 | HTML5 Template Layout          | bs3-template:html5             |
+
+### Text
+
+| Component                      | Snippet code                   |
+|------------------------------- | :-----------------------------:|
+| Center  aligned                | bs3-text-center                |
+| Left    aligned                | bs3-text-left                  |
+| Right   aligned                | bs3-text-right                 |
+| Justify aligned                | bs3-text-justify               |
+| Nowrap  aligned                | bs3-text-nowrap                | 
+| Lowercased  text				 | bs3-text-lowercase             |
+| Uppercased  text               | bs3-text-uppercase             |
+| Capitalized text               | bs3-text-capitalize            |	
+| Mark                           | bs3-text-mark				  |
+| Lead	                         | bs3-text-lead			      |
+| Deleted						 | bs3-text-deleted				  |	 
+| Strikethrough					 | bs3-txt-strikethrough          |
+| Inserted						 | bs3-text-inserted			  |	 
+| Underline						 | bs3-text-underline			  |
+| Bold							 | bs3-text-bold				  |
+| Small							 | bs3-text-small				  |
+| Italic						 | bs3-text-italic				  |		 					  
 
 ### Forms
 

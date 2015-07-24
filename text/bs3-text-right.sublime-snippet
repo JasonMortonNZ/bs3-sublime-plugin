@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-right">${1:Rigth aligned text.}</p>
+]]></content>
+	<tabTrigger>bs3-text-right</tabTrigger>
+</snippet>

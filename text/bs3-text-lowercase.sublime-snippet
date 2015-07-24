@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="text-lowercase">${1:Lowercased text.}</p>
+]]></content>
+	<tabTrigger>bs3-text-lowercase</tabTrigger>
+</snippet>

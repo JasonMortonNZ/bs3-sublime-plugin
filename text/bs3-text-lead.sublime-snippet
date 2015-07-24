@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<p class="lead">${1:You can use the mark tag to lead}</p>
+]]></content>
+	<tabTrigger>bs3-text-lead</tabTrigger>
+</snippet>

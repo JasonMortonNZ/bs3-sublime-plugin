@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<ins>${1:This line of text is meant to be treated as an addition to the document.}</ins>
+]]></content>
+	<tabTrigger>bs3-text-inserted</tabTrigger>
+</snippet>
