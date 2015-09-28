@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <!-- Latest compiled and minified JS -->
 ${1:<script src="//code.jquery.com/jquery.js"></script>}
-<script src="//netdna.bootstrapcdn.com/bootstrap/${1:3.3.4}/js/bootstrap.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/${1:3.3.4}/js/bootstrap.min.js"></script>
 ]]></content>
 	<tabTrigger>bs3-cdn:js</tabTrigger>
 </snippet>
