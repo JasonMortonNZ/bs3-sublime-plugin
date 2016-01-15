@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <!-- Latest compiled and minified JS -->
-${1:<script src="//code.jquery.com/jquery.js"></script>}
-<script src="//netdna.bootstrapcdn.com/bootstrap/${1:3.3.4}/js/bootstrap.min.js"></script>
+${1:<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>}
+${2:<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>}
 ]]></content>
 	<tabTrigger>bs3-cdn:js</tabTrigger>
 </snippet>
