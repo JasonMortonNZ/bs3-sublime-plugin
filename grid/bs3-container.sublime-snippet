@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div class="container">
+<div class="container-fluid">
 	${0}
 </div>
 ]]></content>
