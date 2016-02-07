@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 <div class="alert alert-warning">
-    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-    <strong>${1:Title!}</strong> ${2:Alert body ...}
+	<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+	<strong>${1:Title!}</strong> ${2:Alert body ...}
 </div>
 ]]></content>
-    <tabTrigger>bs3-alert:warning</tabTrigger>
+	<tabTrigger>bs3-alert:warning</tabTrigger>
 </snippet>

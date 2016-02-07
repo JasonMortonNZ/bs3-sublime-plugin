@@ -2,7 +2,7 @@
 	<content><![CDATA[
 <div class="panel panel-${1:default}">
 	<div class="panel-body">
-	   ${2:Basic panel example}
+		${2:Basic panel example}
 	</div>
 </div>
 ]]></content>
