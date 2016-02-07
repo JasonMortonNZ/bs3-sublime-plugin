@@ -12,7 +12,7 @@ New Features
 	* bs3-well - snippet to insert wells (large and small)
 	* bs3-tabs - snippet for inserting tab panes
 	* bs3-textarea - snippet for inserting a textarea form field
-	* bs4-local - reference your local copy of bootstrap (not CDN) 
+	* bs3-local - reference your local copy of bootstrap (not CDN) 
 	* bs3-input-group - snippets for adding input groups
 - Updated CDN references to Bootstrap v3.3.4
 - Updated the pagination snippets
