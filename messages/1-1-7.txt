@@ -1,0 +1,26 @@
+============================================================
+Bootstrap 3 Snippets - Has been updated !! -> v1.1.7
+============================================================
+            Bootstrap v3.3.6 has been released !!
+============================================================
+Follow me on Twitter: @JasonMortonNZ
+------------------------------------------------------------
+
+New Features
+------------------------------------------------------------
+- FIX FOR remaining '<' after autocomplete:
+	* Update your "auto_complete_triggers" setting to this:
+	* "auto_complete_triggers": [{"selector": "text.html", "characters": "<"},{"selector": "text.html", "characters": "bs3"}]
+- Updated CDN references to Bootstrap v3.3.6
+- OUT NOW     - A PHPStorm plugin with all the same snippets
+
+
+============================================================
+					!!! COMING SOON !!!
+============================================================
+A "Bootstrap 4" sublime plugins snippet, using the same,
+familiar snippet syntax you've been used to using "bs4-"
+============================================================
+------------------------------------------------------------
+Documentation, examples & issue filing can be found here:
+https://github.com/JasonMortonNZ/bs3-sublime-plugin
