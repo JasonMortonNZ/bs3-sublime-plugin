@@ -55,11 +55,11 @@ There are 3 methods for installing this plugin.
 
 ### Usage
 
-Start typing `<bs3` in html files and the autocomplete window opens. It matches fuzzily. So you can type `<bs3radio` to find the `bs3-input:radio` snippet.
+Start typing `bs3` in html files and the autocomplete window opens. It matches fuzzily. So you can type `bs3radio` to find the `bs3-input:radio` snippet.
 
-Be sure you have enabled "<" and "bs" in your Preferences.sublime-settings:
+Be sure you have enabled "bs" in your Preferences.sublime-settings:
 
-`"auto_complete_triggers": [{"selector": "text.html", "characters": "<"},{"selector": "text.html", "characters": "bs3"}]`
+`"auto_complete_triggers": [{"selector": "text.html", "characters": "bs3"}]`
 
 ### CDN
 
