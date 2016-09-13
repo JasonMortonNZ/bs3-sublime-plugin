@@ -9,12 +9,12 @@
 		<title>${2:Title Page}</title>
 
 		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="${3:https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css}" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+		<link href="${3://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css}" rel="stylesheet"  integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
-			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
 			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 		<![endif]-->
 	</head>
@@ -22,9 +22,9 @@
 		<h1 class="text-center">${6:Hello World}</h1>
 
 		<!-- jQuery -->
-		<script src="${4://code.jquery.com/jquery.js}"></script>
+		<script src="${4://code.jquery.com/jquery-3.1.0.min.js}"></script>
 		<!-- Bootstrap JavaScript -->
-		<script src="${5:https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js}" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="${5://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js}"  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
  		<script src="${6:https://maxcdn.bootstrapcdn.com/js/ie10-viewport-bug-workaround.js}"></script>
 	</body>
