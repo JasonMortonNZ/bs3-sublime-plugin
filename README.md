@@ -61,6 +61,8 @@ Be sure you have enabled "<" and "bs" in your Preferences.sublime-settings:
 
 `"auto_complete_triggers": [{"selector": "text.html", "characters": "<"},{"selector": "text.html", "characters": "bs3"}]`
 
+**Note:** If you experience any issues with a leading "<" please look at [https://github.com/JasonMortonNZ/bs3-sublime-plugin/issues/99](this issue thread) for some potential solutions.
+
 ### CDN
 
 | Component                      | Snippet code                   |
